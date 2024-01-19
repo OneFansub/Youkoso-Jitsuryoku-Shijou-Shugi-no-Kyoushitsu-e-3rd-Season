@@ -12,15 +12,14 @@ YCbCr Matrix: TV.709
 
 [Aegisub Project Garbage]
 Last Style Storage: BAKE 12
-Audio File: [One Fansub] Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 3rd Season - 02 [WebRip 1080p HEVC-10bits AAC].mkv
-Video File: [One Fansub] Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 3rd Season - 02 [WebRip 1080p HEVC-10bits AAC].mkv
-Keyframes File: Keyframes/2.log
+Audio File: [Erai-raws] Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e S3 - 02 [1080p][Multiple Subtitle][AAC27DA1].mkv
+Video File: [Erai-raws] Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e S3 - 02 [1080p][Multiple Subtitle][AAC27DA1].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.750000
-Scroll Position: 239
-Active Line: 669
-Video Position: 20421
+Video Zoom Percent: 0.375000
+Scroll Position: 381
+Active Line: 2091
+Video Position: 4053
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -2128,7 +2127,7 @@ Dialogue: 20,0:21:59.60,0:22:03.64,Youkoso,ayanokoji,0,0,0,,{\i1\be2}A partir de
 Dialogue: 20,0:22:03.64,0:22:07.22,Youkoso,ayanokoji,0,0,0,,{\i1\be2}de la Preparatoria Metropolitana\Nde Educación Avanzada
 Dialogue: 20,0:22:07.22,0:22:09.55,Youkoso,ayanokoji,0,0,0,,{\i1\be2}se libraría de la racha de expulsiones.
 Comment: 0,0:02:49.02,0:02:49.07,OPL,,0,0,0,,{Inicio Opening}
-Dialogue: 1,0:02:50.06,0:02:53.06,OPL,,0,0,0,fx,{=53}{\an7\pos(344,56)\fscx1520.076375\fscy800\1c&HFFFFFF&\blur1\bord0\p1\clip(15,89,673,93)\t(0,200,\clip(15,10,673,93))\t(2800,3000,\clip(15,10,673,15))}m 0 0 m -40 -4 l 40 -4 l 40 4 l -40 4
+Dialogue: 1,0:02:50.06,0:02:53.06,OPL,,0,0,0,fx,{=190}{\an7\pos(344,56)\fscx1520.076375\fscy800\1c&HFFFFFF&\blur1\bord0\p1\clip(15,89,673,93)\t(0,200,\clip(15,10,673,93))\t(2800,3000,\clip(15,10,673,15))}m 0 0 m -40 -4 l 40 -4 l 40 4 l -40 4
 Dialogue: 2,0:02:50.06,0:02:53.06,OPL,,0,0,0,fx,{\an7\pos(76,56)\fscx80\fscy820\1c&H000000&\3c&H000000&\blur0.7\ybord0\xbord4\p1\clip(10,89,678,93)\t(0,200,\clip(10,10,678,93))\t(2800,3000,\clip(10,10,678,15))}m 0 0 m -40 -4 l 40 -4 l 40 4 l -40 4
 Dialogue: 3,0:02:50.06,0:02:53.06,OPL,,0,0,0,fx,{\an7\pos(76,56)\fscx80\fscy820\1c&H7200FF&\blur0.7\p1\clip(10,89,678,93)\t(0,200,\clip(10,10,678,93))\t(2800,3000,\clip(10,10,678,15))\t(1350,1350,\c&HFFE100&)\t(1470,1470,\c&H00A8FF&)\t(1590,1590,\c&H00FF38&)\t(1710,1710,\c&H7200FF&)}m 0 0 m -40 -4 l 40 -4 l 40 4 l -40 4
 Dialogue: 4,0:02:50.20,0:02:53.07,OPL,,0,0,0,fx,{\an7\pos(40,25)\fscx71257.3875\fscy50\1c&H000000&\blur0.7\p1\clip(10,10,30,93)\t(0,400,\clip(10,10,678,93))\t(2570,2870,\clip(10,10,30,93))}m 0 0 m -100 -4 l 100 -4 l 100 4 l -100 4
@@ -6828,7 +6827,7 @@ Dialogue: 2,0:04:15.45,0:04:18.43,OPR - Español,,0,0,0,fx,{\an5\fad(50,0)\pos(1
 Dialogue: 1,0:04:15.45,0:04:18.43,OPR - Español,,0,0,0,fx,{\an5\fad(50,0)\pos(1844,1023)\1c&H000000&\3c&H000000&\blur1\bord2\clip(701,1060,1900,1064)\t(0,200,\clip(701,981,1900,1064))\t(2780,2980,\clip(701,981,1900,986))}{\fscx92\1a&H00&\3a&H00&\t(1876.95,1876.95,\fscx0\1a&HFF&\3a&HFF&)\t(2076.95,2076.95,\fscx92\1a&H00&\3a&H00&)}z{\fscx0\1a&HFF&\3a&HFF&\t(1876.95,1876.95,\fscx92\1a&H00&\3a&H00&)\t(1926.95,1926.95,\fscx0\1a&HFF&\3a&HFF&)}K{\fscx0\1a&HFF&\3a&HFF&\t(1926.95,1926.95,\fscx92\1a&H00&\3a&H00&)\t(1976.95,1976.95,\fscx0\1a&HFF&\3a&HFF&)}a{\fscx0\1a&HFF&\3a&HFF&\t(1976.95,1976.95,\fscx92\1a&H00&\3a&H00&)\t(2026.95,2026.95,\fscx0\1a&HFF&\3a&HFF&)}u{\fscx0\1a&HFF&\3a&HFF&\t(2026.95,2026.95,\fscx92\1a&H00&\3a&H00&)\t(2076.95,2076.95,\fscx0\1a&HFF&\3a&HFF&)}U
 Dialogue: 2,0:04:15.45,0:04:18.43,OPR - Español,,0,0,0,fx,{\an5\fad(50,0)\pos(1844,1023)\1c&HFFFFFF&\blur1\bord0\clip(701,1060,1900,1064)\t(0,200,\clip(701,981,1900,1064))\t(2780,2980,\clip(701,981,1900,986))}{\fscx92\1a&H00&\3a&H00&\t(1876.95,1876.95,\fscx0\1a&HFF&\3a&HFF&)\t(2076.95,2076.95,\fscx92\1a&H00&\3a&H00&)}z{\fscx0\1a&HFF&\3a&HFF&\t(1876.95,1876.95,\fscx92\1a&H00&\3a&H00&)\t(1926.95,1926.95,\fscx0\1a&HFF&\3a&HFF&)}K{\fscx0\1a&HFF&\3a&HFF&\t(1926.95,1926.95,\fscx92\1a&H00&\3a&H00&)\t(1976.95,1976.95,\fscx0\1a&HFF&\3a&HFF&)}a{\fscx0\1a&HFF&\3a&HFF&\t(1976.95,1976.95,\fscx92\1a&H00&\3a&H00&)\t(2026.95,2026.95,\fscx0\1a&HFF&\3a&HFF&)}u{\fscx0\1a&HFF&\3a&HFF&\t(2026.95,2026.95,\fscx92\1a&H00&\3a&H00&)\t(2076.95,2076.95,\fscx0\1a&HFF&\3a&HFF&)}U
 Dialogue: 1,0:04:15.45,0:04:18.43,OPR - Español,,0,0,0,fx,{\an5\fad(50,0)\pos(1867,1023)\1c&H000000&\3c&H000000&\blur1\bord2\clip(701,1060,1900,1064)\t(0,200,\clip(701,981,1900,1064))\t(2780,2980,\clip(701,981,1900,986))}{\fscx92\1a&H00&\3a&H00&\t(208.55,208.55,\fscx0\1a&HFF&\3a&HFF&)\t(408.55,408.55,\fscx92\1a&H00&\3a&H00&)}a{\fscx0\1a&HFF&\3a&HFF&\t(208.55,208.55,\fscx92\1a&H00&\3a&H00&)\t(258.55,258.55,\fscx0\1a&HFF&\3a&HFF&)}L{\fscx0\1a&HFF&\3a&HFF&\t(258.55,258.55,\fscx92\1a&H00&\3a&H00&)\t(308.55,308.55,\fscx0\1a&HFF&\3a&HFF&)}W{\fscx0\1a&HFF&\3a&HFF&\t(308.55,308.55,\fscx92\1a&H00&\3a&H00&)\t(358.55,358.55,\fscx0\1a&HFF&\3a&HFF&)}3{\fscx0\1a&HFF&\3a&HFF&\t(358.55,358.55,\fscx92\1a&H00&\3a&H00&)\t(408.55,408.55,\fscx0\1a&HFF&\3a&HFF&)}R
-Dialogue: 2,0:04:15.45,0:04:18.43,OPR - Español,,0,0,0,fx,{=54}{\an5\fad(50,0)\pos(1867,1023)\1c&HFFFFFF&\blur1\bord0\clip(701,1060,1900,1064)\t(0,200,\clip(701,981,1900,1064))\t(2780,2980,\clip(701,981,1900,986))}{\fscx92\1a&H00&\3a&H00&\t(208.55,208.55,\fscx0\1a&HFF&\3a&HFF&)\t(408.55,408.55,\fscx92\1a&H00&\3a&H00&)}a{\fscx0\1a&HFF&\3a&HFF&\t(208.55,208.55,\fscx92\1a&H00&\3a&H00&)\t(258.55,258.55,\fscx0\1a&HFF&\3a&HFF&)}L{\fscx0\1a&HFF&\3a&HFF&\t(258.55,258.55,\fscx92\1a&H00&\3a&H00&)\t(308.55,308.55,\fscx0\1a&HFF&\3a&HFF&)}W{\fscx0\1a&HFF&\3a&HFF&\t(308.55,308.55,\fscx92\1a&H00&\3a&H00&)\t(358.55,358.55,\fscx0\1a&HFF&\3a&HFF&)}3{\fscx0\1a&HFF&\3a&HFF&\t(358.55,358.55,\fscx92\1a&H00&\3a&H00&)\t(408.55,408.55,\fscx0\1a&HFF&\3a&HFF&)}R
+Dialogue: 2,0:04:15.45,0:04:18.43,OPR - Español,,0,0,0,fx,{=191}{\an5\fad(50,0)\pos(1867,1023)\1c&HFFFFFF&\blur1\bord0\clip(701,1060,1900,1064)\t(0,200,\clip(701,981,1900,1064))\t(2780,2980,\clip(701,981,1900,986))}{\fscx92\1a&H00&\3a&H00&\t(208.55,208.55,\fscx0\1a&HFF&\3a&HFF&)\t(408.55,408.55,\fscx92\1a&H00&\3a&H00&)}a{\fscx0\1a&HFF&\3a&HFF&\t(208.55,208.55,\fscx92\1a&H00&\3a&H00&)\t(258.55,258.55,\fscx0\1a&HFF&\3a&HFF&)}L{\fscx0\1a&HFF&\3a&HFF&\t(258.55,258.55,\fscx92\1a&H00&\3a&H00&)\t(308.55,308.55,\fscx0\1a&HFF&\3a&HFF&)}W{\fscx0\1a&HFF&\3a&HFF&\t(308.55,308.55,\fscx92\1a&H00&\3a&H00&)\t(358.55,358.55,\fscx0\1a&HFF&\3a&HFF&)}3{\fscx0\1a&HFF&\3a&HFF&\t(358.55,358.55,\fscx92\1a&H00&\3a&H00&)\t(408.55,408.55,\fscx0\1a&HFF&\3a&HFF&)}R
 Comment: 20,0:22:09.60,0:22:12.60,Youkoso,,0,0,0,,
 
 [Aegisub Extradata]
@@ -6921,3 +6920,5 @@ Data: 186,a-mo,e{"originalText"#3A"{\\an7\\pos(0#2C0)\\1c&HB9BDBB&\\p1}m 658.85 
 Data: 187,a-mo,e{"originalText"#3A"{\\an7\\pos(0#2C0)\\1c&HC0C2C2&\\p1}m 639.91 445.93 b 637.91 445.53 636.04 444.38 633.89 444.87 633.65 440.97 633.28 437.25 630.7 433.89 629.3 432.07 628.66 429.5 628.95 426.97 l 628.9 426.68 b 629.58 426.36 630.27 426.36 630.97 426.59 633.89 428.35 634.6 431.55 635.99 434.32 636.79 435.9 637.07 437.82 638.77 438.83 640.48 437.32 639.2 435.08 640.15 433.41 640.35 433.01 640.64 432.69 641.01 432.45 641.21 432.38 641.42 432.32 641.62 432.26 642.03 432.24 642.43 432.31 642.81 432.47 643.14 432.66 643.02 433.01 643.08 433.3 643.37 433.14 643.45 432.89 643.31 432.53 643.28 432.13 643.32 431.74 643.42 431.35 643.86 429.96 643.7 428.43 644.36 427.08 644.66 426.71 645.04 426.49 645.5 426.41 646.24 426.38 646.93 426.52 647.55 426.92 649.16 428.53 649.26 430.39 648.49 432.39 648.44 433.5 645.15 431.98 646.79 434.57 647.47 435.63 647.93 436.97 646.57 438.04 645.11 437.06 645.28 439.41 644.2 439.23 641.8 440.67 643.72 443.24 642.69 445.04 642.52 445.47 642.24 445.83 641.88 446.13 641.19 446.35 640.53 446.4 639.91 445.93{\\p0}"#2C"uuid"#3A"ce4fcf3d-2783-42c5-97c2-971745f6c42d"}
 Data: 188,a-mo,e{"originalText"#3A"{\\an7\\pos(0#2C0)\\1c&HC4C7C5&\\p1}m 646.77 417.84 b 645.84 417.84 644.91 417.84 643.97 417.84 643.39 417.3 642.49 417.48 641.9 416.95 640.58 416.35 640.04 415.23 639.86 413.87 638.65 412.03 640.18 409.74 638.88 407.91 638.88 404.58 638.88 401.25 638.89 397.92 640.16 395.83 642.1 396.38 643.96 396.64 646.6 400.73 646.06 405.59 647.11 410.06 647.58 412.08 647.2 414.3 647.4 416.42 647.37 416.97 647.17 417.45 646.77 417.84{\\p0}"#2C"uuid"#3A"83fe6923-09ee-4f15-84e1-a5fb1f689e1f"}
 Data: 189,a-mo,e{"originalText"#3A"{\\an7\\pos(0#2C0)\\1c&HC4C7C6&\\p1}m 696.88 401.88 b 697.24 402.24 697.59 402.59 697.95 402.94 698.65 404.31 698.2 405.78 698.32 407.2 696.39 410.13 697.83 412.93 698.64 415.76 698.4 416.67 697.65 416.83 696.88 416.96 690.61 417.58 689.86 416.84 688.49 408.68 688.45 404.78 685.41 401.03 687.89 397.01 688.52 396.98 689.15 396.96 689.78 396.93 690.96 397.97 692.6 396.91 693.81 397.82 694.16 398.18 694.5 398.53 694.85 398.89 695.59 399.85 696.06 400.98 696.88 401.88{\\p0}"#2C"uuid"#3A"03dce70e-2fef-4217-a039-fe023187172b"}
+Data: 190,_aegi_folddata,e0;0;4
+Data: 191,_aegi_folddata,e1;0;4
