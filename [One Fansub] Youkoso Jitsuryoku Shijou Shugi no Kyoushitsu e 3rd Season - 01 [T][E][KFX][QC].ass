@@ -11,15 +11,14 @@ WrapStyle: 0
 YCbCr Matrix: TV.709
 
 [Aegisub Project Garbage]
-Last Style Storage: COTE S3
+Last Style Storage: COTE 03
 Audio File: [One Fansub] Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 3rd Season - 01 [WebRip 1080p HEVC-10bits AAC].mkv
 Video File: [One Fansub] Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 3rd Season - 01 [WebRip 1080p HEVC-10bits AAC].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.500000
-Scroll Position: 3
-Active Line: 7
-Video Position: 104
+Video Zoom Percent: 0.625000
+Active Line: 6
+Video Position: 32563
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -28,21 +27,6 @@ Style: Youkoso Mind,Stone Inf Sem ITC TT Semi,70,&H78FFFFFF,&H000000FF,&H00362A1
 Style: Titulos,Bakerie Rough,110,&H00F1F1F2,&H000000FF,&H00000000,&H00000000,0,0,0,0,105,100,2,0,1,0,0,2,15,15,15,1
 Style: Signs,Trebuchet MS,60,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,5,15,15,15,1
 Style: Signs 01,Times New Roman,24,&H00FFFFFF,&H000000FF,&H001D1C1C,&H00303030,-1,0,0,0,100,100,0,0,1,2,1,8,20,20,20,1
-Style: Gen_Main,Trebuchet MS,72,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,6,3,2,30,30,54,1
-Style: Gen_Italics,Trebuchet MS,72,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,6,3,2,30,30,54,1
-Style: Gen_Main_Up,Trebuchet MS,72,&H00FFFFFF,&H000000FF,&H00000000,&H00090909,0,0,0,0,100,100,0,0,1,6,3,8,30,30,54,1
-Style: Gen_Italics_top,Trebuchet MS,72,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,6,3,8,30,30,54,1
-Style: Gen_Nota,Trebuchet MS,60,&H00FFFFFF,&H000000FF,&H00262626,&H00505050,0,-1,0,0,100,100,0,0,1,6,3,8,30,30,54,1
-Style: Cart_A_Tre,Trebuchet MS,60,&H00FFFFFF,&H000000FF,&H00303030,&H00000000,-1,0,0,0,100,100,0,0,1,6,0,8,60,60,60,1
-Style: Cart_B_Tre,Trebuchet MS,72,&H00323232,&H000000FF,&H00D9D9D9,&H00D9D9D9,-1,0,0,0,100,100,0,0,1,6,3,8,60,60,60,1
-Style: Cart_C_Tre,Trebuchet MS,60,&H00000000,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,6,0,8,60,60,60,1
-Style: Cart_A_Tim,Times New Roman,72,&H00FFFFFF,&H000000FF,&H00303030,&H00303030,-1,0,0,0,100,100,0,0,1,6,3,8,60,60,60,1
-Style: Cart_B_Tim,Times New Roman,72,&H00323232,&H000000FF,&H00D9D9D9,&H00D9D9D9,-1,0,0,0,100,100,0,0,1,6,3,8,60,60,60,1
-Style: Cart_C_Tim,Times New Roman,72,&H00323232,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,6,3,8,60,60,60,1
-Style: Cart_A_Verd,Verdana,60,&H00FFFFFF,&H000000FF,&H00000000,&H00303030,-1,0,0,0,100,100,0,0,1,6,3,8,60,60,60,1
-Style: Cart_C_Verd,Verdana,60,&H00000000,&H000000FF,&H00FFFFFF,&H00303030,-1,0,0,0,100,100,0,0,1,6,3,8,60,60,60,1
-Style: Cart_EpiTitle,Trebuchet MS,66,&H00FFFFFF,&H000000FF,&H32494949,&H00494949,-1,0,0,0,100,100,0,0,1,0,6,3,60,60,60,1
-Style: Cart_Serieslogo,Consolas,120,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,30,0,1,0,0,5,15,15,0,1
 Style: OPL Ep01,DFMinchoP Pro-6 W5,74,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,90,100,0.001,0,1,0,0,7,40,40,15,1
 Style: OPL Ep01 - Español,A-OTF Ryumin Pr6 EB-KL,67,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0.001,0,1,2,0,1,40,40,15,1
 Style: OPR Ep01,DFMinchoP Pro-6 W5,74,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,90,100,0.001,0,1,0,0,9,40,40,15,1
@@ -50,19 +34,13 @@ Style: OPR Ep01 - Español,A-OTF Ryumin Pr6 EB-KL,67,&H00FFFFFF,&H00FFFFFF,&H000
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Comment: 0,0:00:00.00,0:00:00.02,Sign,chapter,0,0,0,,{Título}Título
-Comment: 0,0:00:11.99,0:00:12.03,Sign,,0,0,0,,{Prólogo}Prólogo
-Comment: 0,0:00:11.99,0:00:12.03,Sign,chapter,0,0,0,,{Episodio}Episodio
-Comment: 0,0:22:10.10,0:22:10.14,Sign,chapter,0,0,0,,{Opening 3 "Minor Piece" de ZAQ}Opening 3 "Minor Piece" de ZAQ
-Comment: 0,0:22:50.06,0:22:50.10,Sign,,0,0,0,,{Ending 3 "Konse Daikakumei" de Yui Ninomiya}Ending 3 "Konse Daikakumei" de Yui Ninomiya
-Comment: 0,0:24:20.02,0:24:20.06,Sign,,0,0,0,,{Próximo episodio}Próximo episodio
-Comment: 0,0:22:18.99,0:22:19.03,Sign,,0,0,0,,{Epílogo}Epílogo
-Dialogue: 0,0:00:00.01,0:00:11.99,Signs,sign,0,0,0,,{\an7\bord0\shad0\blur0\pos(0,0)\p1\c&H000000&\clip(m 1 1 l 1919 1 1919 360 1 360 1 480 1919 480 1919 1079 1 1079)}m 0 0 l 1920 0 1920 1080 0 1080
-Dialogue: 1,0:00:01.86,0:00:11.98,Titulos,,0,0,0,,{\fad(2144,0)\fs75\blur0.8\b1\pos(960,360)\bord0\be0}El principio más fuerte del crecimiento reside en la elección humana{\fs40} {\fs75}.
-Dialogue: 1,0:00:05.74,0:00:11.98,Titulos,,0,0,0,,{\an9\fad(1017,0)\fs55\be0\b1\pos(1738,560)\bord0\blur0.8}Daniel Deronda
-Dialogue: 1,0:00:05.74,0:00:11.98,Titulos,,0,0,0,,{\an9\fad(1017,0)\fs75\be0\b1\pos(1738,615)\bord0\blur0.8}George Eliot
-Dialogue: 1,0:00:05.74,0:00:11.98,Titulos,,0,0,0,,{\fad(1017,0)\blur0.8\an3\fs75\b1\pos(1468,895)\bord0\be0}Classroom of the Elite 3.ª Temporada
-Dialogue: 1,0:00:08.49,0:00:11.98,Titulos,,0,0,0,,{\fad(978,0)\blur0.8\an1\fs75\b1\pos(1505,895)\bord0\be0}Episodio {\c&H3F3DF4&}1
+Dialogue: 0,0:00:00.01,0:00:11.99,Signs,sign,0,0,0,,{\an7\pos(0,0)\c&H000000&\p1\clip(m 1 1 l 1919 1 1919 360 1 360 1 480 1919 480 1919 1079 1 1079)}m 1926 1051.5 l -39 1101 -3 51 1990.5 -153
+Dialogue: 1,0:00:01.86,0:00:11.98,Titulos,,0,0,0,,{\fad(2029,0)\fs75\blur0.8\b1\pos(960,360)\bord0\be0}El principio más fuerte del crecimiento reside en la elección humana{\fs40} {\fs75}.
+Dialogue: 1,0:00:05.74,0:00:11.98,Titulos,,0,0,0,,{\an9\fad(933,0)\fs55\be0\b1\pos(1738,560)\bord0\blur0.8}Daniel Deronda
+Dialogue: 1,0:00:05.74,0:00:11.98,Titulos,,0,0,0,,{\an9\fad(933,0)\fs75\be0\b1\pos(1738,615)\bord0\blur0.8}George Eliot
+Dialogue: 1,0:00:05.74,0:00:11.98,Titulos,,0,0,0,,{\fad(933,0)\blur0.8\an3\fs75\b1\pos(1468,895)\bord0\be0}Classroom of the Elite 3.ª Temporada
+Dialogue: 1,0:00:08.49,0:00:11.98,Titulos,,0,0,0,,{\fad(933,0)\blur0.8\an1\fs75\b1\pos(1505,895)\bord0\be0}Episodio {\c&H3F3DF4&}1
+Dialogue: 1,0:03:06.42,0:03:07.96,Signs,,0,0,0,,{\an6\fs90\fsp0\fnDFMinchoP Pro-5 W3\b0\blur1.1\c&HFFFFFF&\frz0\fscx70\pos(1550,842)}Por: One Fansub
 Dialogue: 1,0:00:22.00,0:00:22.04,Signs,,0,0,0,,{=10}{\alpha&H00&\an7\fs65\blur0.9\3c&HB39256&\c&H6F501C&\b0\fnFOT-Rodin Pro EB\clip(m 941.33 450.67 l 1580.44 368 1574.22 418.67 1510.52 410.42 b 1479.03 407.34 1447.32 409.27 1421.78 415.04 1394.52 420.18 1374.42 429.04 1356.51 437.64 1330.48 448.86 1305.6 473.33 1293.72 489.62 1273.22 513.17 1277.01 518.17 1273.35 534.4 l 943.21 574.93)\fax0.000001\fscx65.93\fscy82.78\frz5.23\frx-1.2664\fry-0.6023\org(-485.01,1714.81)\pos(873.33,714.44)}P{*\c&H71521D&}r{*\c&H73541E&}e{*\c&H755620&}p{*\c&H775721&}a{*\c&H795922&}r{*\c&H7C5B23&}a{*\c&H7E5D24&}t{*\c&H805F25&}o{*\c&H826127&}r{*\c&H846228&}i{*\c&H866429&}a{\c&H88662A&} {*\c&H8C682A&}M{*\c&H906B2A&}e{*\c&H946D2A&}t{\c&H986F2A&}r{*\c&HA97E35&}o{*\c&HB98C3F&}p{\c&HCA9B4A&}o{*\c&HD3AB5C&}l{*\c&HDCBB6F&}i{*\c&HE5CB81&}t{*\c&HEDDA93&}a{*\c&HF6EAA6&}n{\c&HFFFAB8&}a{*\c&HB6A36A&}\N{\c&H6D4C1B&}d{*\c&H704E1C&}e {*\c&H76531E&}E{*\c&H795620&}d{*\c&H7C5821&}u{*\c&H7F5B22&}c{*\c&H825D23&}a{*\c&H866024&}c{*\c&H896225&}i{*\c&H8C6526&}ó{*\c&H8F6727&}n {*\c&H956C2A&}A{*\c&H986F2B&}v{\c&H9B712C&}a
 Dialogue: 1,0:00:22.04,0:00:22.08,Signs,,0,0,0,,{\alpha&H00&\an7\fs65\blur0.9\3c&HB39256&\c&H6F501C&\b0\fnFOT-Rodin Pro EB\clip(m 936.8 448.83 l 1575.91 366.16 1569.69 416.83 1505.99 408.58 b 1474.5 405.5 1442.79 407.43 1417.25 413.2 1389.99 418.34 1369.89 427.2 1351.98 435.8 1325.95 447.02 1301.07 471.49 1289.19 487.78 1268.69 511.33 1272.48 516.33 1268.82 532.56 l 938.68 573.09)\fax0.000001\fscx65.93\fscy82.78\frz5.23\frx-1.2664\fry-0.6023\org(-489.54,1712.97)\pos(868.8,712.6)}P{*\c&H71521D&}r{*\c&H73541E&}e{*\c&H755620&}p{*\c&H775721&}a{*\c&H795922&}r{*\c&H7C5B23&}a{*\c&H7E5D24&}t{*\c&H805F25&}o{*\c&H826127&}r{*\c&H846228&}i{*\c&H866429&}a{\c&H88662A&} {*\c&H8C682A&}M{*\c&H906B2A&}e{*\c&H946D2A&}t{\c&H986F2A&}r{*\c&HA97E35&}o{*\c&HB98C3F&}p{\c&HCA9B4A&}o{*\c&HD3AB5C&}l{*\c&HDCBB6F&}i{*\c&HE5CB81&}t{*\c&HEDDA93&}a{*\c&HF6EAA6&}n{\c&HFFFAB8&}a{*\c&HB6A36A&}\N{\c&H6D4C1B&}d{*\c&H704E1C&}e {*\c&H76531E&}E{*\c&H795620&}d{*\c&H7C5821&}u{*\c&H7F5B22&}c{*\c&H825D23&}a{*\c&H866024&}c{*\c&H896225&}i{*\c&H8C6526&}ó{*\c&H8F6727&}n {*\c&H956C2A&}A{*\c&H986F2B&}v{\c&H9B712C&}a
 Dialogue: 1,0:00:22.08,0:00:22.12,Signs,,0,0,0,,{\alpha&H00&\an7\fs65\blur0.9\3c&HB39256&\c&H6F501C&\b0\fnFOT-Rodin Pro EB\clip(m 932.31 446.98 l 1571.42 364.31 1565.2 414.98 1501.5 406.73 b 1470.01 403.65 1438.3 405.58 1412.76 411.35 1385.5 416.49 1365.4 425.35 1347.49 433.95 1321.46 445.17 1296.58 469.64 1284.7 485.93 1264.2 509.48 1267.99 514.48 1264.33 530.71 l 934.19 571.24)\fax0.000001\fscx65.93\fscy82.78\frz5.23\frx-1.2664\fry-0.6023\org(-494.03,1711.12)\pos(864.31,710.75)}P{*\c&H71521D&}r{*\c&H73541E&}e{*\c&H755620&}p{*\c&H775721&}a{*\c&H795922&}r{*\c&H7C5B23&}a{*\c&H7E5D24&}t{*\c&H805F25&}o{*\c&H826127&}r{*\c&H846228&}i{*\c&H866429&}a{\c&H88662A&} {*\c&H8C682A&}M{*\c&H906B2A&}e{*\c&H946D2A&}t{\c&H986F2A&}r{*\c&HA97E35&}o{*\c&HB98C3F&}p{\c&HCA9B4A&}o{*\c&HD3AB5C&}l{*\c&HDCBB6F&}i{*\c&HE5CB81&}t{*\c&HEDDA93&}a{*\c&HF6EAA6&}n{\c&HFFFAB8&}a{*\c&HB6A36A&}\N{\c&H6D4C1B&}d{*\c&H704E1C&}e {*\c&H76531E&}E{*\c&H795620&}d{*\c&H7C5821&}u{*\c&H7F5B22&}c{*\c&H825D23&}a{*\c&H866024&}c{*\c&H896225&}i{*\c&H8C6526&}ó{*\c&H8F6727&}n {*\c&H956C2A&}A{*\c&H986F2B&}v{\c&H9B712C&}a
@@ -309,15 +287,15 @@ Dialogue: 0,0:04:23.79,0:04:25.79,Signs,,0,0,0,,{\an7\pos(0,0)\1c&HA48067&\p1}m 
 Dialogue: 0,0:04:23.79,0:04:25.79,Signs,,0,0,0,,{\an7\pos(0,0)\1c&HA37E66&\p1}m 910.71 369.93 b 911.81 367.46 915.76 367.36 915.71 363.94 917.37 364.64 919.04 362.15 920.71 363.94 921.08 365.37 923.41 366.16 921.88 368.26 920.53 370.1 919.27 368.46 917.99 368.57 915.54 368.78 913.14 369.45 910.71 369.93 m 889.73 367.94 b 890.34 368.93 890.34 369.93 889.73 370.93 888.57 370.73 887.04 371.51 886.36 370.18 885.83 369.14 887.05 369.14 887.73 368.93 888.39 368.6 889.06 368.27 889.73 367.94{\p0}
 Dialogue: 0,0:04:23.79,0:04:25.79,Signs,,0,0,0,,{\an7\pos(0,0)\1c&HAA856A&\p1}m 825.76 368.93 b 821.19 372.32 815.58 370.24 810.59 371.81 806.31 373.15 801.8 373.84 797.33 374.42 795.49 374.66 795.48 375.95 794.78 376.93 791.12 376.59 787.46 376.26 783.79 375.93 783.96 373.67 785.4 371.94 787.27 371.52 795.95 369.53 803.95 365.09 813.28 365.17 818.08 365.21 822.29 361.03 827.51 361.54 828.6 361.65 829.79 360.94 830.76 361.94 828.48 363.84 826.98 366.28 825.76 368.93{\p0}
 Dialogue: 0,0:04:23.79,0:04:25.79,Signs,,0,0,0,,{=13}{\an7\pos(0,0)\1c&H7C5743&\p1}m 753.81 589.69 b 743.44 596.3 731.62 597.45 719.83 598.68 727.94 591.16 739.35 593.93 748.5 589.55 749.92 588.87 752.02 589.61 753.81 589.69 m 763.8 587.69 b 760.64 589.19 757.29 589.76 753.81 589.69 756.89 587.79 760.32 587.6 763.8 587.69 m 768.8 585.7 b 767.8 588.02 765.73 587.68 763.8 587.69 765.19 586.34 767.04 586.13 768.8 585.7{\p0}
-Dialogue: 1,0:17:27.15,0:17:28.53,Signs,sign,0,0,0,,{\fnFOT-TsukuAMDMin Std E\blur9\c&HEFEAE5&\fs60\pos(1523,104.38)\alpha&H80&\fscy150}Uso/Transferencia de Punto{\blur9}s
-Dialogue: 2,0:17:27.15,0:17:28.53,Signs,sign,0,0,0,,{\fnFOT-TsukuAMDMin Std E\blur2\c&HEFEAE5&\fs60\pos(1523,104.38)}U{*\blur2.25}s{*\blur2.5}o{*\blur2.75}/{*\blur3}T{*\blur3.25}r{*\blur3.5}a{*\blur3.75}n{\blur4}s{*\blur4.083}f{*\blur4.167}e{*\blur4.25}r{*\blur4.333}e{*\blur4.417}n{*\blur4.5}c{*\blur4.583}i{*\blur4.667}a {*\blur4.833}d{*\blur4.917}e {*\blur5.083}P{*\blur5.167}u{*\blur5.25}n{*\blur5.333}t{*\blur5.417}o{\blur5.5}s
+Dialogue: 1,0:17:27.15,0:17:28.53,Signs,sign,0,0,0,,{\fnFOT-TsukuAMDMin Std E\blur9\c&HEFEAE5&\fs60\pos(1523,104.38)\alpha&H80&\fscy150}Uso/Transferencia de punto{\blur9}s
+Dialogue: 2,0:17:27.15,0:17:28.53,Signs,sign,0,0,0,,{\fnFOT-TsukuAMDMin Std E\blur2\c&HEFEAE5&\fs60\pos(1523,104.38)}U{*\blur2.25}s{*\blur2.5}o{*\blur2.75}/{*\blur3}T{*\blur3.25}r{*\blur3.5}a{*\blur3.75}n{\blur4}s{*\blur4.083}f{*\blur4.167}e{*\blur4.25}r{*\blur4.333}e{*\blur4.417}n{*\blur4.5}c{*\blur4.583}i{*\blur4.667}a {*\blur4.833}d{*\blur4.917}e {*\blur5.083}p{*\blur5.167}u{*\blur5.25}n{*\blur5.333}t{*\blur5.417}o{\blur5.5}s
 Dialogue: 0,0:17:27.78,0:17:28.53,Signs,sign,0,0,0,,{\an7\blur6\bord0\shad0\pos(0,0)\c&H604533&\fscx100\fscy100\p1}m 1216.01 643 l 1452.65 643 1452.65 674 1216.01 674
 Dialogue: 1,0:17:27.78,0:17:28.53,Signs,sign,0,0,0,,{\fad(101,0)\an4\fnFOT-TsukuMin Pr5 M\blur5\c&HF4EBCB&\fs35\pos(1236.07,659.68)\b0\alpha&H80&}Enviando al correo...
 Dialogue: 2,0:17:27.78,0:17:28.53,Signs,sign,0,0,0,,{\fad(101,0)\an4\fnFOT-TsukuMin Pr5 M\blur1\c&HFFF8E0&\fs35\pos(1236.07,659.68)\b0}Enviando al correo...
 Dialogue: 1,0:17:27.15,0:17:28.53,Signs,sign,0,0,0,,{\fnFOT-TsukuMin Pr5 M\blur5\c&HF4EBCB&\fs50\pos(565.19,579.54)}Ichinose Honami
 Dialogue: 2,0:17:27.15,0:17:28.53,Signs,sign,0,0,0,,{\fnFOT-TsukuMin Pr5 M\blur1.2\c&HF4EBCB&\fs50\pos(565.19,579.54)}Ichinose Honami
-Dialogue: 1,0:17:27.15,0:17:28.53,Signs,sign,0,0,0,,{\fnFOT-TsukuAMDMin Std E\blur5\c&HF4F242&\fs50\pos(960,300)}Transferencia de Puntos en Progreso
-Dialogue: 2,0:17:27.15,0:17:28.53,Signs,sign,0,0,0,,{\fnFOT-TsukuAMDMin Std E\blur1.2\c&HF4F242&\fs50\pos(960,300)}Transferencia de Puntos en Progreso
+Dialogue: 1,0:17:27.15,0:17:28.53,Signs,sign,0,0,0,,{\fnFOT-TsukuAMDMin Std E\blur5\c&HF4F242&\fs50\pos(960,300)}Transferencia de puntos en progreso
+Dialogue: 2,0:17:27.15,0:17:28.53,Signs,sign,0,0,0,,{\fnFOT-TsukuAMDMin Std E\blur1.2\c&HF4F242&\fs50\pos(960,300)}Transferencia de puntos en progreso
 Dialogue: 0,0:17:27.15,0:17:28.53,Signs,,0,0,0,,{=14}{\an7\pos(0,0)\1c&H9B7964&\p1}m 1791.13 64.43 b 1797.18 64.64 1803.29 63.2 1809.26 65.22 1808.69 68.64 1806.98 71.01 1803.37 71.73 1800.71 72.26 1799.68 74.35 1798.99 76.66 1798.7 77.62 1798.84 78.65 1798.74 79.64 1798 87.28 1798 87.28 1789.97 87.49 1783.61 87.66 1780.33 92.77 1776.02 96.22 1775.78 96.41 1775.68 96.78 1775.51 97.07 1773.51 100.52 1767.85 99.9 1766.89 103.05 1765.7 106.96 1763.57 108.94 1760.36 110.47 1758.84 111.2 1758.17 112.33 1757.92 113.93 1757.35 117.56 1755.56 120.84 1754.92 124.45 1754.66 125.94 1753.97 126.91 1752.18 126.92 1755.15 130.89 1759.81 130.3 1763.75 131.49 1766.2 131.97 1768.92 132.06 1769.44 135.36 1768.57 137.02 1767.29 137.83 1765.38 137.21 1761.25 135.86 1756.88 136.19 1752.66 135.45 1752.17 135.37 1751.57 135.36 1751.24 135.04 1743.57 127.75 1734.22 128.58 1724.86 129.59 1722.69 129.83 1720.55 129.95 1718.45 129.33 1715.5 128.48 1712.53 128.49 1709.58 129.03 1703.62 130.11 1697.72 128.48 1691.78 128.68 1690.73 128.72 1689.23 128.87 1688.93 127.33 1688.62 125.73 1689.78 124.86 1691.07 124.4 1695.38 122.87 1699.86 122.2 1704.22 123.76 1706.66 124.62 1708.98 125.02 1711.49 124.82 1715.58 124.75 1719.66 124.7 1723.74 124.8 1725.05 124.83 1726.36 124.84 1727.67 124.84 1731.48 125.02 1735.31 124.72 1739.21 125.21 1737.77 119.58 1743.25 121.02 1745.55 118.99 1743.83 114.58 1740.51 113.52 1735.87 113.25 1721.98 112.45 1708.11 113.26 1694.23 112.9 1692.53 112.85 1690.9 112.8 1689.61 111.49 1686.87 108.86 1682.41 108.59 1680.42 104.9 1679.99 104.01 1679.67 103.11 1679.99 102.1 1684.59 99.63 1685.93 99.87 1688.51 104.03 1689.29 105.29 1690.19 105.6 1691.39 105.15 1692.91 104.57 1691.85 103.74 1691.63 102.83 1691.01 100.23 1693.44 98.39 1696.31 99.99 1698.94 101.45 1700.92 100.3 1703.25 100.23 1711.01 99.99 1719 98.61 1726.07 103.51 1727.38 104.41 1728.98 104.18 1730.35 103.41 1730.99 103.06 1731.13 102.31 1730.74 101.68 1729.88 100.32 1728.47 100.47 1727.15 100.54 1718.68 101 1710.38 100.23 1702.19 97.86 1698.5 96.8 1694.57 97.73 1690.76 97.34 1685.5 96.8 1684.7 95.14 1686.6 90.21 1688.15 86.2 1689.39 82.16 1686.98 77.8 1685.76 75.58 1684.96 72.86 1686.04 70.14 1690.12 69.21 1690.17 72.89 1691 74.97 1694.54 83.8 1694.4 83.85 1704.2 84.04 1704.53 84.05 1704.9 83.97 1705.19 84.07 1712.84 86.71 1720.18 85.37 1727.48 82.55 1729.33 81.84 1731.29 81.98 1732.84 83.94 1735.87 87.75 1740.24 87.92 1743.64 84.48 1745.77 82.33 1747.75 79.66 1749.33 84.9 1749.75 86.29 1750.97 86.59 1752.16 85.91 1753.93 84.89 1755.61 84.92 1757.35 85.89 1757.78 86.13 1758.52 86.35 1758.77 86.05 1763.31 80.78 1771.03 84.82 1776 79.96 1778.07 77.93 1780.45 76.68 1781.75 73.64 1783.51 69.51 1785.01 64.41 1791.13 64.43{\p0}
 Dialogue: 0,0:17:27.15,0:17:28.53,Signs,,0,0,0,,{\an7\pos(0,0)\1c&H987761&\p1}m 1276.37 65.22 b 1280.3 63.18 1284.46 64.66 1288.51 64.43 1292.39 65.37 1296.43 64.3 1300.3 65.3 1305.55 66.65 1310.95 66.71 1316.29 68.37 1321 69.83 1326.71 69.27 1331.99 69.22 1334.82 69.19 1337.67 68.75 1339.84 71.24 1340.28 71.73 1341.02 71.96 1341.68 71.9 1348.33 71.31 1355.18 73.16 1361.63 70.45 1363.58 69.64 1365.21 70.14 1366.89 70.84 1370.97 72.55 1375.09 73.54 1379.45 71.95 1381 71.39 1382.37 72.13 1383.81 72.48 1390.23 74.05 1396.63 74.99 1403.25 73.21 1406.81 72.25 1409.65 74.13 1411.92 76.87 1414.61 80.13 1415.15 80.04 1417 76.1 1417.22 75.65 1417.4 75.19 1417.54 74.71 1418.27 72.33 1419.81 71.08 1422.34 71.29 1424.77 71.5 1426.28 72.81 1426.92 75.19 1427.9 78.86 1430.35 80.54 1434.13 80.28 1439.26 77.08 1444.87 77.24 1450.45 78.34 1454.17 79.07 1457.86 80.08 1461.52 81.13 1462.31 81.35 1463.28 81.98 1463.89 81.66 1467.89 79.55 1472.09 81.1 1476.18 80.78 1476.64 80.67 1477.11 80.64 1477.59 80.66 1479.43 81.04 1481.4 80.81 1483.11 81.8 1483.69 84.47 1483.43 86.96 1479.99 86.68 1474.59 86.24 1469.59 86.62 1464.74 89.5 1463.22 90.4 1460.74 91.26 1458.58 89.98 1458.22 88.94 1457.8 88.99 1457.34 89.92 1454.31 91.52 1450.37 90.55 1447.76 93.34 1447.56 93.56 1447.09 93.61 1446.81 93.48 1440.6 90.44 1434.86 95.27 1428.8 94.56 1424.88 95.18 1420.43 94.55 1418.82 99.87 1418.28 101.67 1415.5 101.07 1414.18 102.39 1411.3 105.44 1407.55 105.32 1404.01 104.59 1400.71 103.92 1397.57 103.79 1394.24 104.21 1391.83 104.51 1388.71 105.1 1388.25 101.12 1389.86 99.61 1391.9 99.65 1393.88 99.64 1396.4 99.64 1398.86 99.58 1400.92 97.8 1402.03 96.85 1403.33 96.94 1404.7 97.25 1406.29 97.6 1407.98 98 1409.26 96.34 1408.7 94.58 1407.13 95.07 1405.96 94.85 1404.39 94.56 1402.56 93.99 1402.48 92.49 1402.21 87.59 1398.57 88.36 1395.72 88.35 1392.28 88.34 1389.82 87.49 1389.4 82.87 1386.82 85.18 1386.23 87.91 1384.53 89.79 1383.26 91.19 1381.78 92.73 1379.86 91.51 1377.78 90.18 1378.87 88.35 1379.89 86.74 1380.74 85.4 1382.48 83.9 1380.55 82.47 1378.63 81.04 1377.19 82.95 1375.86 84.08 1374.4 85.31 1374.49 87.45 1373.32 88.87 1371.91 90.58 1370 91.37 1369.19 88.73 1367.77 84.08 1364.16 84.66 1360.74 84.49 1350.79 84 1340.86 84.55 1330.83 83.19 1323.62 82.22 1319.06 76.7 1312.29 75.54 1309.8 75.11 1307.44 73.62 1304.68 73.76 1300.56 73.97 1296.93 72.44 1293.49 70.39 1293.26 70.13 1293.51 69.77 1293.34 69.49 1293.1 69.68 1292.87 69.86 1292.61 70.05 1291.37 70.65 1290.03 70.65 1288.72 70.85 1280.58 72.1 1280.58 72.12 1276.37 65.22{\p0}
 Dialogue: 0,0:17:27.15,0:17:28.53,Signs,,0,0,0,,{\an7\pos(0,0)\1c&H987964&\p1}m 1413.4 101.23 b 1415.6 99.89 1418.31 100.09 1419.25 96.13 1419.91 93.33 1425.17 94.04 1428.39 93.24 1429.64 94.38 1431.25 94.22 1432.64 94.05 1439.27 93.23 1446.12 94.66 1452.56 92.06 1453.33 91.75 1454.29 91.46 1454.99 91.78 1459.93 94.07 1465.34 93.04 1470.45 94.06 1470.82 96.72 1468.84 97.05 1467.03 97.29 1464.72 97.6 1462.4 97.78 1460.07 97.91 1458.91 97.98 1457.25 97.95 1457.02 99.14 1456.17 103.43 1452.77 103.07 1449.72 103.65 1445.68 104.41 1441.64 104.95 1438.05 107.54 1435.73 109.23 1432.4 108.78 1429.43 109.48 1435.65 109.81 1441.72 107.69 1447.84 109.26 1448.81 109.51 1449.8 108.97 1450.66 108.44 1454.22 106.28 1456.75 106.24 1456.63 111.4 1456.61 112.7 1457.44 112.76 1458.25 112.66 1465.19 111.88 1468.77 117.38 1473.47 120.77 1473.86 121.05 1474.04 121.62 1474.42 121.92 1476.19 123.27 1477.73 124.54 1480 122.22 1481.88 120.3 1484.87 120.18 1487.42 119.52 1493.53 117.96 1499.72 117.46 1505.81 119.63 1507.36 120.19 1508.32 119.1 1509.56 118.86 1512.3 119.11 1512.64 121.17 1512.94 123.29 1512.98 123.75 1512.97 124.21 1512.92 124.67 1512.16 127.71 1511.67 130.2 1516.49 129.01 1521.16 127.86 1521.24 131.53 1521.59 134.66 1521.56 135.14 1521.36 135.53 1520.97 135.83 1518.2 137.61 1515.01 137.05 1511.79 137.37 1514.17 137.9 1516.88 136.28 1518.53 138.99 1518.65 139.5 1518.53 140.3 1518.2 140.31 1511.49 140.41 1506.25 145.03 1499.08 145.36 1491.57 145.7 1484.09 144.56 1476.55 145.04 1470.51 145.42 1465.07 147.52 1459.23 147.97 1457.7 148.09 1456.39 148.85 1455.35 150.01 1437.05 150.01 1418.75 150.01 1400.46 150.01 1400.99 147.34 1403.22 148.12 1404.82 148.03 1408.47 147.84 1412.15 147.78 1415.79 148.01 1425.28 148.59 1434.49 146.32 1443.81 145.54 1456.51 144.47 1468.6 139.44 1481.53 140.34 1483.3 140.46 1485.16 140 1486.85 139.13 1487.47 139.24 1486.84 138.03 1486.96 138.68 1487 138.87 1486.88 138.9 1486.61 138.88 1483.62 138.76 1481.35 136.08 1478.17 136.49 1477.48 136.58 1476.99 135.85 1476.98 135.14 1476.98 133.52 1478.75 133.92 1479.46 133.09 1482.39 130.51 1485.8 132.76 1488.94 132.19 1490.32 131.93 1491.79 132.9 1493.28 132.1 1489.66 131.15 1481.42 131.87 1479.2 133.3 1475.49 133.54 1474.33 130.03 1472.05 128.24 1471.04 127.44 1470.06 126.26 1469.45 127.6 1467.83 131.22 1464.77 129.78 1462.61 129.45 1459.89 129.03 1457.22 127.21 1456.22 124.43 1454.82 120.55 1452.33 120.41 1449.13 121.55 1445.78 122.73 1442.03 122.9 1439.64 126.44 1439.21 127.07 1435.3 127.26 1433.21 126.02 1431.21 124.84 1428.47 124.28 1427.18 122.88 1425.92 121.51 1424.28 120.64 1423.12 119.22 1418.84 113.99 1412.56 114.12 1406.76 113.84 1404.22 113.72 1401.53 113.37 1398.89 113.73 1397.63 113.9 1396.57 113.26 1396.36 111.9 1396.18 110.75 1396.99 109.78 1397.93 109.67 1404.71 108.86 1409.86 103.87 1416.44 102.61 1415.49 102.02 1414.14 102.29 1413.4 101.23{\p0}
@@ -518,19 +496,19 @@ Dialogue: 15,0:02:19.33,0:02:22.42,Youkoso,sign,0,0,0,,{\i1\be2}son las cuatro p
 Dialogue: 15,0:02:23.86,0:02:25.68,Youkoso,sign,0,0,0,,{\be2}Los grupos mejor evaluados
 Dialogue: 15,0:02:25.68,0:02:29.88,Youkoso,sign,0,0,0,,{\be2}ganarán puntos de clase y puntos privados, ¿no?
 Dialogue: 15,0:02:29.88,0:02:32.84,Youkoso,sign,0,0,0,,{\be2}Eso no es lo más importante.
-Dialogue: 15,0:02:32.84,0:02:34.01,Youkoso,sign,0,0,0,,{\be2}Sí.
-Dialogue: 15,0:02:34.01,0:02:36.40,Youkoso,sign,0,0,0,,{\be2}Lo que hay que evitar a toda costa
+Dialogue: 15,0:02:32.84,0:02:33.88,Youkoso,sign,0,0,0,,{\be2}Sí.
+Dialogue: 15,0:02:33.88,0:02:36.40,Youkoso,sign,0,0,0,,{\be2}Lo que hay que evitar a toda costa
 Dialogue: 15,0:02:36.40,0:02:38.72,Youkoso,sign,0,0,0,,{\be2}es quedar por debajo del límite.
 Dialogue: 15,0:02:38.72,0:02:42.58,Youkoso,sign,0,0,0,,{\be2}El líder del grupo,\Nque no alcance el límite,
 Dialogue: 15,0:02:42.58,0:02:46.24,Youkoso,sign,0,0,0,,{\be2}y una persona designada por este\Nserán expulsados.
 Dialogue: 15,0:02:46.24,0:02:49.36,Youkoso,sign,0,0,0,,{\be2}¿Los echarán por responsabilidad conjunta?
-Dialogue: 15,0:02:49.36,0:02:52.96,Youkoso,sign,0,0,0,,{\be2}Pues, con tu actitud estarás en aprietos, Sudo.
+Dialogue: 15,0:02:49.36,0:02:52.96,Youkoso,sign,0,0,0,,{\be2}Pues, con tu actitud\Nestarás en aprietos, Sudo.
 Dialogue: 15,0:02:52.96,0:02:53.82,Youkoso,sign,0,0,0,,{\be2}¿Qué?
 Dialogue: 15,0:02:53.82,0:02:56.61,Youkoso,sign,0,0,0,,{\be2}Últimamente me porto bien.
 Dialogue: 15,0:02:58.54,0:03:02.18,Youkoso,Hirata,0,0,0,,{\be2}No expulsarán a nadie de esta clase.
 Dialogue: 15,0:03:02.18,0:03:05.75,Youkoso,Hirata,0,0,0,,{\be2}Si pasa algo, vengan a pedirme consejo.
 Dialogue: 15,0:03:05.75,0:03:08.64,Youkoso,sign,0,0,0,,{\be2}¿Pero cómo vamos a hablar contigo?
-Dialogue: 15,0:03:08.64,0:03:11.88,Youkoso,sign,0,0,0,,{\be2}Chicos y chicas sólo nos veremos al cenar.
+Dialogue: 15,0:03:08.64,0:03:11.88,Youkoso,sign,0,0,0,,{\be2}Chicos y chicas sólo\Nnos veremos al cenar.
 Dialogue: 15,0:03:11.88,0:03:14.76,Youkoso,sign,0,0,0,,{\be2}Y nos van a quitar esto.
 Dialogue: 15,0:03:14.76,0:03:15.88,Youkoso,Hirata,0,0,0,,{\be2}Sí.
 Dialogue: 15,0:03:15.88,0:03:17.34,Youkoso,Hirata,0,0,0,,{\be2}Por eso debería haber
@@ -539,12 +517,12 @@ Dialogue: 15,0:03:20.44,0:03:23.26,Youkoso,Hirata,0,0,0,,{\be2}¿Puedes asumir e
 Dialogue: 15,0:03:23.84,0:03:24.81,Youkoso,Horikita,0,0,0,,{\be2}De acuerdo.
 Dialogue: 15,0:03:24.81,0:03:28.31,Youkoso,Horikita,0,0,0,,{\be2}No me gusta decir esto de mí misma,
 Dialogue: 15,0:03:28.31,0:03:33.03,Youkoso,Horikita,0,0,0,,{\be2}pero no creo tener una personalidad\Nmuy apropiada para dar consejos.
-Dialogue: 15,0:03:33.03,0:03:36.20,Youkoso Mind,Kushida,0,0,0,,{\be2}Sí, no es algo que uno quisiera decir sobre sí mismo.
+Dialogue: 15,0:03:33.03,0:03:36.20,Youkoso Mind,Kushida,0,0,0,,{\be2}Sí, no es algo que uno\Nquisiera decir sobre sí mismo.
 Dialogue: 15,0:03:37.40,0:03:39.57,Youkoso,Horikita,0,0,0,,{\be2}Por eso, Kushida,
 Dialogue: 15,0:03:39.57,0:03:42.08,Youkoso,Horikita,0,0,0,,{\be2}me gustaría que fueras la sublíder.
 Dialogue: 15,0:03:42.62,0:03:46.45,Youkoso,Kushida,0,0,0,,{\be2}No creo que pueda ser de mucha ayuda.
 Dialogue: 15,0:03:46.45,0:03:47.72,Youkoso,Horikita,0,0,0,,{\be2}Claro que sí.
-Dialogue: 15,0:03:47.72,0:03:51.21,Youkoso,Horikita,0,0,0,,{\be2}Toda la clase confía en ti más que en nadie.
+Dialogue: 15,0:03:47.72,0:03:51.21,Youkoso,Horikita,0,0,0,,{\be2}Toda la clase confía en ti\Nmás que en nadie.
 Dialogue: 15,0:03:51.21,0:03:52.76,Youkoso,Kushida,0,0,0,,{\be2}Este…
 Dialogue: 15,0:03:53.30,0:03:54.09,Youkoso,Kushida,0,0,0,,{\be2}Está bien.
 Dialogue: 15,0:03:54.09,0:03:57.59,Youkoso,Kushida,0,0,0,,{\be2}Si estás de acuerdo conmigo,\Nentonces voy a ayudar.
@@ -553,49 +531,58 @@ Dialogue: 15,0:04:02.87,0:04:04.98,Youkoso,Girl,0,0,0,,{\be2}Qué locura.
 Dialogue: 15,0:04:02.87,0:04:05.06,Youkoso,Yabu,0,0,0,,{\an8\be2}Y van a quitarnos los celulares.
 Dialogue: 15,0:04:04.98,0:04:06.56,Youkoso,sign,0,0,0,,{\be2}Quiero irme a casa.
 Dialogue: 15,0:04:08.81,0:04:11.54,Youkoso,sign,0,0,0,,{\be2}Sigue, sigue.
-Dialogue: 15,0:04:14.00,0:04:18.20,Youkoso Mind,sign,0,0,0,,{\be2}Parece que la clase A ya tiene algo preparado.
+Dialogue: 15,0:04:14.00,0:04:18.20,Youkoso Mind,sign,0,0,0,,{\be2}Parece que la clase A\Nya tiene algo preparado.
 Dialogue: 15,0:04:20.18,0:04:23.24,Youkoso,sign,0,0,0,,{\be2}Clase C, denme sus teléfonos.
+Comment: 0,0:04:23.79,0:04:25.79,Signs,,0,0,0,,{\an7\fnFOT-TsukuAMDMin Std E\fs32\c&HF0D64A&\blur1\frz13.01\fax0.07\fscx94.26\fscy94.26\pos(774.46,368.08)}Tiene un nuevo mensaje
+Comment: 0,0:04:23.78,0:04:25.78,Signs,,0,0,0,,{\an7\fnFOT-TsukuAMDMin Std E\fs32\c&HF0D64A&\blur1.3\frz13.01\fax0.07\fscx94.26\fscy94.26\pos(774.46,368.08)}Tiene un nuevo mensaje
+Comment: 0,0:04:23.78,0:04:25.78,Signs,,0,0,0,,{\fnFOT-TsukuAMDMin Std E\fs55\c&HF1E1D1&\blur1\frz13.01\fax0.07\fscx94.26\fscy94.26\pos(876.81,397.12)}De: A
+Comment: 0,0:04:23.78,0:04:25.78,Signs,,0,0,0,,{\fnFOT-TsukuAMDMin Std E\fs55\c&HF1E1D1&\blur1.5\frz13.01\fax0.07\fscx94.26\fscy94.26\pos(876.81,397.12)}De: A
+Comment: 0,0:04:23.78,0:04:25.78,Signs,,0,0,0,,{\fnFOT-TsukuAMDMin Std E\fs30\an7\bord0\c&HF1E1D1&\blur1\frz13.11\fax0\pos(712.32,542.43)}Cancelar
+Comment: 0,0:04:23.78,0:04:25.78,Signs,,0,0,0,,{\fnFOT-TsukuAMDMin Std E\fs30\an7\bord0\c&HF1E1D1&\blur1.5\frz13.11\fax0\pos(712.32,542.43)}Cancelar
+Comment: 0,0:04:23.78,0:04:25.78,Signs,,0,0,0,,{\fnFOT-TsukuAMDMin Std E\fs30\an7\bord0\c&H65E38E&\blur1\frz13.11\fax0\pos(1028.93,466.71)}Abrir
+Comment: 0,0:04:23.78,0:04:25.78,Signs,,0,0,0,,{\fnFOT-TsukuAMDMin Std E\fs30\an7\bord0\c&H65E38E&\blur1.5\frz13.11\fax0\pos(1028.93,466.71)}Abrir
+Comment: 0,0:04:23.79,0:04:25.79,Signs,,0,0,0,,{\fad(0,0)\frz13.01\fax0.07\c&H9F7962&\fscx94.26\fscy94.26\alpha&H00&\an7\p1\blur1\pos(761.58,368.84)}m 0 0 l 250 0 250 90 0 90{\p0}
 Dialogue: 15,0:04:23.78,0:04:27.28,Youkoso,sign,0,0,0,,{\be2}Entréguenlos y firmen en la lista.
 Dialogue: 15,0:04:33.76,0:04:35.22,Youkoso Mind,sign,0,0,0,,{\be2}En esta prueba
 Dialogue: 15,0:04:35.92,0:04:40.04,Youkoso Mind,Ayanokoji,0,0,0,,{\be2}es imposible que proteja\Na toda la clase yo solo.
-Dialogue: 15,0:04:35.92,0:04:38.84,Youkoso,Yukimura,0,0,0,,{\an8\be2}Quizás nos calificarán con "aprobado" y "reprobado".
+Dialogue: 15,0:04:35.92,0:04:38.84,Youkoso,Yukimura,0,0,0,,{\an8\be2}Quizás nos calificarán con\N"aprobado" y "reprobado".
 Dialogue: 15,0:04:38.84,0:04:40.84,Youkoso,Miyake,0,0,0,,{\an8\be2}Lo sabremos cuando iniciemos, ¿no?
-Dialogue: 15,0:04:40.84,0:04:44.63,Youkoso,Sakura,0,0,0,,{\an8\be2}Estoy algo nerviosa de que me separen de los demás.
-Dialogue: 15,0:04:42.36,0:04:46.43,Youkoso Mind,Ayanokoji,0,0,0,,{\be2}Tendré que reducir los objetivos a proteger.
+Dialogue: 15,0:04:40.84,0:04:44.63,Youkoso,Sakura,0,0,0,,{\an8\be2}Me pone algo nerviosa\Nque me separen de los demás.
+Dialogue: 15,0:04:42.36,0:04:46.43,Youkoso Mind,Ayanokoji,0,0,0,,{\be2}Tendré que reducir\Nlos objetivos a proteger.
 Dialogue: 15,0:04:44.63,0:04:46.45,Youkoso,Hasebe,0,0,0,,{\an8\be2}No te preocupes, todo estará bien.
-Dialogue: 15,0:04:46.45,0:04:48.64,Youkoso,2nd Year Girl,0,0,0,,{\be2}Haremos justo lo que nos dijiste, Nagumo.
+Dialogue: 15,0:04:46.45,0:04:48.64,Youkoso,2nd Year Girl,0,0,0,,{\be2}Haremos justo lo que\Nnos dijiste, Nagumo.
 Dialogue: 15,0:04:48.64,0:04:49.44,Youkoso,Nagumo,0,0,0,,{\be2}Gracias.
 Dialogue: 15,0:04:49.44,0:04:50.35,Youkoso,Nagumo,0,0,0,,{\be2}Cuento con ustedes.
 Dialogue: 15,0:04:50.35,0:04:52.39,Youkoso,2nd Year Girl,0,0,0,,{\be2}¡También esfuérzate, Nagumo!
-Dialogue: 15,0:04:52.94,0:04:56.70,Youkoso,Mashima,0,0,0,,{\be2}Iremos a las instalaciones de arriba con el equipaje.
+Dialogue: 15,0:04:52.94,0:04:56.70,Youkoso,Mashima,0,0,0,,{\be2}Iremos a las instalaciones\Nde arriba con el equipaje.
 Dialogue: 15,0:04:56.70,0:05:00.44,Youkoso,Mashima,0,0,0,,{\be2}Allí decidirán los grupos de chicos y chicas.
 Dialogue: 15,0:05:00.45,0:05:04.89,Youkoso,Mashima,0,0,0,,{\be2}Son libres de hacerlos como prefieran.
 Dialogue: 15,0:05:04.89,0:05:07.95,Youkoso,Mashima,0,0,0,,{\be2}La escuela no intervendrá.
-Dialogue: 15,0:05:08.36,0:05:13.54,Youkoso,Mashima,0,0,0,,{\an8\be2}Una vez formado los grupos, deberán elegir un líder.
+Dialogue: 15,0:05:08.36,0:05:13.54,Youkoso,Mashima,0,0,0,,{\an8\be2}Una vez formado los grupos,\Ndeberán elegir un líder.
 Dialogue: 15,0:05:08.60,0:05:10.68,Youkoso,Horikita,0,0,0,,{\be2}Así que nos dejan todo a nosotros.
 Dialogue: 15,0:05:12.14,0:05:14.60,Youkoso,sign,0,0,0,,{\be2}No quiero estar en su grupo.
-Dialogue: 15,0:05:13.54,0:05:16.96,Youkoso,Mashima,0,0,0,,{\an8\be2}Si no pueden elegirlo, serán descalificados.
+Dialogue: 15,0:05:13.54,0:05:16.96,Youkoso,Mashima,0,0,0,,{\an8\be2}Si no pueden elegirlo,\Nserán descalificados.
 Dialogue: 15,0:05:16.96,0:05:19.34,Youkoso,Mashima,0,0,0,,{\an8\be2}O sea, serán expulsados.
 Dialogue: 15,0:05:17.34,0:05:19.34,Youkoso Mind,sign,0,0,0,,{\be2}Kakeru Ryuen.
 Dialogue: 15,0:05:19.34,0:05:20.68,Youkoso Mind,sign,0,0,0,,{\be2}Tras aquella derrota,
-Dialogue: 15,0:05:21.18,0:05:25.08,Youkoso Mind,sign,0,0,0,,{\be2}abandonó su puesto de dictador de la clase C.
+Dialogue: 15,0:05:21.18,0:05:25.08,Youkoso Mind,sign,0,0,0,,{\be2}abandonó su puesto\Nde dictador de la clase C.
 Dialogue: 15,0:05:26.39,0:05:28.47,Youkoso Mind,sign,0,0,0,,{\be2}Ahora es el tumor de la clase D,
 Dialogue: 15,0:05:28.47,0:05:32.61,Youkoso Mind,sign,0,0,0,,{\be2}no, de todo el año escolar.
 Dialogue: 15,0:05:35.46,0:05:36.64,Youkoso,sign,0,0,0,,{\be2}Ryuen…
-Dialogue: 15,0:05:36.64,0:05:40.14,Youkoso,sign,0,0,0,,{\an8\be2}Empezando por los de primero, tomen sus cosas y muévanse.
+Dialogue: 15,0:05:36.64,0:05:40.14,Youkoso,sign,0,0,0,,{\an8\be2}Empezando por los de primero,\Ntomen sus cosas y muévanse.
 Dialogue: 15,0:05:40.82,0:05:43.94,Youkoso,sign,0,0,0,,{\be2}¿Vamos a subir por la montaña con todo esto?
 Dialogue: 15,0:05:43.94,0:05:46.48,Youkoso,sign,0,0,0,,{\be2}¡Oigan, chicas, ayuden!
 Dialogue: 15,0:05:46.48,0:05:48.08,Youkoso,Nagumo,0,0,0,,{\an8\be2}Horikita.
-Dialogue: 15,0:05:48.76,0:05:52.33,Youkoso,Nagumo,0,0,0,,{\be2}¿Por qué no competimos cuando tengamos los grupos?
+Dialogue: 15,0:05:48.76,0:05:52.33,Youkoso,Nagumo,0,0,0,,{\be2}¿Por qué no competimos\Ncuando tengamos los grupos?
 Dialogue: 15,0:05:54.33,0:05:56.36,Youkoso,sign,0,0,0,,{\be2}Déjate de bromas.
-Dialogue: 15,0:05:56.36,0:05:59.96,Youkoso,sign,0,0,0,,{\be2}¿De qué sirve competir entre segundo y tercero?
-Dialogue: 15,0:05:59.96,0:06:02.98,Youkoso,Nagumo,0,0,0,,{\be2}Sólo quiero una batalla entre el expresidente
-Dialogue: 15,0:06:02.98,0:06:06.68,Youkoso,Nagumo,0,0,0,,{\be2}y el actual presidente del consejo estudiantil.
+Dialogue: 15,0:05:56.36,0:05:59.96,Youkoso,sign,0,0,0,,{\be2}¿De qué sirve competir\Nentre segundo y tercero?
+Dialogue: 15,0:05:59.96,0:06:02.98,Youkoso,Nagumo,0,0,0,,{\be2}Sólo quiero una batalla\Nentre el expresidente
+Dialogue: 15,0:06:02.98,0:06:06.68,Youkoso,Nagumo,0,0,0,,{\be2}y el actual presidente\Ndel consejo estudiantil.
 Dialogue: 15,0:06:06.68,0:06:09.24,Youkoso,Nagumo,0,0,0,,{\be2}Quiero ponerme a prueba
 Dialogue: 15,0:06:09.24,0:06:13.22,Youkoso,Nagumo,0,0,0,,{\be2}y ver si te he superado antes de que\Nte gradúes y desaparezcas.
 Dialogue: 15,0:06:15.22,0:06:17.98,Youkoso,sign,0,0,0,,{\be2}¿En qué pretendes competir?
 Dialogue: 15,0:06:17.98,0:06:19.90,Youkoso,sign,0,0,0,,{\be2}¿Horikita?
-Dialogue: 15,0:06:19.90,0:06:24.16,Youkoso,Nagumo,0,0,0,,{\be2}Viendo qué grupo obtiene el promedio más alto.
+Dialogue: 15,0:06:19.90,0:06:24.16,Youkoso,Nagumo,0,0,0,,{\be2}Viendo qué grupo obtiene\Nel promedio más alto.
 Dialogue: 15,0:06:24.16,0:06:25.66,Youkoso,Nagumo,0,0,0,,{\be2}Sencillo, ¿no?
 Dialogue: 15,0:06:25.66,0:06:27.20,Youkoso,sign,0,0,0,,{\be2}Ya veo.
 Dialogue: 15,0:06:27.20,0:06:29.44,Youkoso,sign,0,0,0,,{\be2}Si ese es el caso,\Nno me importa aceptar.
@@ -605,7 +592,7 @@ Dialogue: 15,0:06:35.30,0:06:36.96,Youkoso,Nagumo,0,0,0,,{\be2}Estoy bien con es
 Dialogue: 15,0:06:37.76,0:06:40.18,Youkoso,Nagumo,0,0,0,,{\be2}Sin sanciones para el perdedor.
 Dialogue: 15,0:06:40.18,0:06:43.98,Youkoso,Nagumo,0,0,0,,{\be2}Sólo una lucha con\Nnuestro orgullo en juego.
 Dialogue: 15,0:06:45.44,0:06:48.48,Youkoso,sign,0,0,0,,{\be2}No puedo creer que\Nmi hermano haya aceptado.
-Dialogue: 15,0:06:49.30,0:06:52.46,Youkoso Mind,sign,0,0,0,,{\be2}Miyabi Nagumo, actual presidente del consejo.
+Dialogue: 15,0:06:49.30,0:06:52.46,Youkoso Mind,sign,0,0,0,,{\be2}Miyabi Nagumo,\Nactual presidente del consejo.
 Dialogue: 15,0:06:54.32,0:06:56.28,Youkoso Mind,sign,0,0,0,,{\be2}Parece muy confiado.
 Dialogue: 15,0:07:14.04,0:07:15.71,Youkoso,sign,0,0,0,,{\be2}¿En serio?
 Dialogue: 15,0:07:15.71,0:07:17.94,Youkoso,sign,0,0,0,,{\be2}Es muy pequeña.
@@ -628,28 +615,28 @@ Dialogue: 15,0:08:10.94,0:08:13.34,Youkoso,sign,0,0,0,,{\be2}¿No íbamos a habl
 Dialogue: 15,0:08:15.26,0:08:17.66,Youkoso,sign,0,0,0,,{\be2}Esto no va a ser fácil.
 Dialogue: 15,0:08:18.73,0:08:21.02,Youkoso,sign,0,0,0,,{\be2}¿Algo que decir, Yahiko?
 Dialogue: 15,0:08:21.02,0:08:23.74,Youkoso,sign,0,0,0,,{\be2}No hace falta que lo diga, Hashimoto.
-Dialogue: 15,0:08:23.74,0:08:27.61,Youkoso,sign,0,0,0,,{\be2}Aunque seamos de la clase A, sigo sin confiar en ti.
+Dialogue: 15,0:08:23.74,0:08:27.61,Youkoso,sign,0,0,0,,{\be2}Aunque seamos de la clase A,\Nsigo sin confiar en ti.
 Dialogue: 15,0:08:27.61,0:08:29.00,Youkoso,sign,0,0,0,,{\be2}Me lo imaginaba.
 Dialogue: 15,0:08:28.08,0:08:31.21,Youkoso,Moriyama,0,0,0,,{\an8\be2}¡Oye, no te sientes sobre los futones!
-Dialogue: 15,0:08:29.00,0:08:32.62,Youkoso,sign,0,0,0,,{\be2}Pero ahora somos aliados del mismo grupo.
+Dialogue: 15,0:08:29.00,0:08:32.62,Youkoso,sign,0,0,0,,{\be2}Pero ahora somos\Naliados del mismo grupo.
 Dialogue: 15,0:08:31.21,0:08:32.62,Youkoso,Koenji,0,0,0,,{\an8\be2}¡La respuesta es no!
-Dialogue: 15,0:08:32.96,0:08:36.05,Youkoso,Sumida,0,0,0,,{\an8\be2}¡Al menos recarga las que no uses en la pared!
+Dialogue: 15,0:08:32.96,0:08:36.05,Youkoso,Sumida,0,0,0,,{\an8\be2}¡Al menos recarga\Nlas que no uses en la pared!
 Dialogue: 15,0:08:33.36,0:08:34.70,Youkoso,sign,0,0,0,,{\be2}Ya lo veremos.
 Dialogue: 15,0:08:36.05,0:08:38.01,Youkoso,Koenji,0,0,0,,{\an8\be2}Eso es otro no.
 Dialogue: 15,0:08:36.05,0:08:40.28,Youkoso Mind,sign,0,0,0,,{\be2}A diferencia de otros grupos,\Neste está lleno de delincuentes.
 Dialogue: 15,0:08:38.01,0:08:40.55,Youkoso,Yukimura,0,0,0,,{\an8\be2}No le des problemas a otras clases.
-Dialogue: 15,0:08:40.55,0:08:43.72,Youkoso,Koenji,0,0,0,,{\an8\be2}Yo tampoco quiero que me den problemas.
+Dialogue: 15,0:08:40.55,0:08:43.72,Youkoso,Koenji,0,0,0,,{\an8\be2}Yo tampoco quiero\Nque me den problemas.
 Dialogue: 15,0:08:41.10,0:08:43.72,Youkoso Mind,sign,0,0,0,,{\be2}No va a haber mucha colaboración.
 Dialogue: 15,0:08:58.66,0:09:02.31,Youkoso,sign,0,0,0,,{\be2}Es raro verte cansada, Ichinose.
 Dialogue: 15,0:09:03.16,0:09:06.07,Youkoso,sign,0,0,0,,{\be2}Hola, Ayanokoji.
 Dialogue: 15,0:09:06.07,0:09:07.69,Youkoso,sign,0,0,0,,{\be2}Lo siento.
 Dialogue: 15,0:09:07.69,0:09:10.12,Youkoso,sign,0,0,0,,{\be2}Es que lo de los grupos no está siendo fácil.
 Dialogue: 15,0:09:10.12,0:09:14.08,Youkoso,sign,0,0,0,,{\be2}Algunas chicas se dicen en sus caras\Nque no se agradan, ¿sabes?
-Dialogue: 15,0:09:14.08,0:09:15.83,Youkoso,sign,0,0,0,,{\be2}No te entusiasmes mucho.
+Dialogue: 15,0:09:14.08,0:09:15.83,Youkoso,sign,0,0,0,,{\be2}No te esmeres mucho.
 Dialogue: 15,0:09:15.83,0:09:17.86,Youkoso,sign,0,0,0,,{\be2}Está bien, está bien.
-Dialogue: 15,0:09:17.86,0:09:20.66,Youkoso,sign,0,0,0,,{\be2}Ser enérgica es lo único que tengo a mi favor.
+Dialogue: 15,0:09:17.86,0:09:20.66,Youkoso,sign,0,0,0,,{\be2}Ser enérgica es lo único\Nque tengo a mi favor.
 Dialogue: 15,0:09:21.32,0:09:22.83,Youkoso,sign,0,0,0,,{\be2}Por cierto,
-Dialogue: 15,0:09:22.83,0:09:27.24,Youkoso,sign,0,0,0,,{\be2}chicos y chicas sólo podemos estar juntos en este comedor.
+Dialogue: 15,0:09:22.83,0:09:27.24,Youkoso,sign,0,0,0,,{\be2}chicos y chicas sólo podemos\Nestar juntos en este comedor.
 Dialogue: 15,0:09:27.24,0:09:30.59,Youkoso,sign,0,0,0,,{\be2}Está claro lo que pretende la escuela.
 Dialogue: 15,0:09:31.00,0:09:32.22,Youkoso,sign,0,0,0,,{\be2}¿Lo que pretende?
 Dialogue: 15,0:09:32.22,0:09:33.34,Youkoso,sign,0,0,0,,{\be2}Sí.
@@ -667,13 +654,13 @@ Dialogue: 15,0:10:06.26,0:10:10.59,Youkoso,sign,0,0,0,,{\be2}Estoy hablando con 
 Dialogue: 15,0:10:10.59,0:10:12.50,Youkoso,sign,0,0,0,,{\be2}Ah, claro.
 Dialogue: 15,0:10:12.50,0:10:14.10,Youkoso,sign,0,0,0,,{\be2}Hasta luego.
 Dialogue: 15,0:10:16.10,0:10:17.01,Youkoso,sign,0,0,0,,{\be2}Entonces,
-Dialogue: 15,0:10:17.01,0:10:19.89,Youkoso,sign,0,0,0,,{\be2}¿Me arrastraste por la fuerza al mismo grupo
+Dialogue: 15,0:10:17.01,0:10:19.89,Youkoso,sign,0,0,0,,{\be2}¿Me arrastraste por la fuerza\Nal mismo grupo
 Dialogue: 15,0:10:19.89,0:10:21.86,Youkoso,sign,0,0,0,,{\be2}para tenerme vigilada?
 Dialogue: 15,0:10:23.60,0:10:24.98,Youkoso,sign,0,0,0,,{\be2}¿O, por el contrario,
-Dialogue: 15,0:10:24.98,0:10:27.62,Youkoso,sign,0,0,0,,{\be2}es para que te reconozca como una aliada?
+Dialogue: 15,0:10:24.98,0:10:27.62,Youkoso,sign,0,0,0,,{\be2}es para que te reconozca\Ncomo una aliada?
 Dialogue: 15,0:10:27.62,0:10:28.53,Youkoso,sign,0,0,0,,{\be2}Sí.
 Dialogue: 15,0:10:28.53,0:10:31.86,Youkoso,sign,0,0,0,,{\be2}No negaré que esos objetivos\Nson parte de la razón.
-Dialogue: 15,0:10:31.86,0:10:36.62,Youkoso,sign,0,0,0,,{\be2}¿Así que te niegas a entender que no tiene caso?
+Dialogue: 15,0:10:31.86,0:10:36.62,Youkoso,sign,0,0,0,,{\be2}¿Así que te niegas a\Nentender que no tiene caso?
 Dialogue: 15,0:10:37.34,0:10:39.74,Youkoso,sign,0,0,0,,{\be2}Quiero que confíes en mí.
 Dialogue: 15,0:10:40.32,0:10:42.38,Youkoso,sign,0,0,0,,{\be2}Estás siendo muy honesta.
 Dialogue: 15,0:10:44.18,0:10:47.50,Youkoso,sign,0,0,0,,{\be2}Lo siento, pero nunca te creeré.
@@ -681,8 +668,8 @@ Dialogue: 15,0:10:47.92,0:10:51.06,Youkoso,sign,0,0,0,,{\be2}No diré nada sobre
 Dialogue: 15,0:10:51.06,0:10:53.51,Youkoso,sign,0,0,0,,{\be2}No ganaría nada.
 Dialogue: 15,0:10:53.51,0:10:55.40,Youkoso,sign,0,0,0,,{\be2}Puede que sea así.
 Dialogue: 15,0:10:55.94,0:10:57.43,Youkoso,sign,0,0,0,,{\be2}Si se lo cuentas a alguien,
-Dialogue: 15,0:10:57.43,0:11:00.60,Youkoso,sign,0,0,0,,{\be2}destrozaría la clase como en la secundaria.
-Dialogue: 15,0:11:00.60,0:11:04.02,Youkoso,sign,0,0,0,,{\be2}Y así, no podrías llegar a ser de la clase A.
+Dialogue: 15,0:10:57.43,0:11:00.60,Youkoso,sign,0,0,0,,{\be2}destrozaría la clase\Ncomo en la secundaria.
+Dialogue: 15,0:11:00.60,0:11:04.02,Youkoso,sign,0,0,0,,{\be2}Y así, no podrías llegar\Na ser de la clase A.
 Dialogue: 15,0:11:04.02,0:11:05.06,Youkoso,sign,0,0,0,,{\be2}Entonces…
 Dialogue: 15,0:11:04.77,0:11:05.77,Youkoso,sign,0,0,0,,{\an8\be2}Pero verás,
 Dialogue: 15,0:11:05.77,0:11:08.96,Youkoso,sign,0,0,0,,{\be2}La situación actual es\Nbastante inflexible.
@@ -701,16 +688,15 @@ Dialogue: 15,0:11:48.54,0:11:51.07,Youkoso,sign,0,0,0,,{\be2}¿Cómo puedo ser c
 Dialogue: 15,0:12:08.46,0:12:10.38,Youkoso,sign,0,0,0,,{\be2}¿Qué demonios?
 Dialogue: 15,0:12:10.38,0:12:12.52,Youkoso,sign,0,0,0,,{\be2}Cuánto alboroto.
 Dialogue: 15,0:12:14.48,0:12:17.38,Youkoso,sign,0,0,0,,{\be2}¿Nos van a despertar tan temprano?
-Dialogue: 15,0:12:17.38,0:12:19.80,Youkoso,sign,0,0,0,,{\be2}Koenji no está.
-Dialogue: 15,0:12:19.80,0:12:20.88,Youkoso,sign,0,0,0,,{\be2}¿Adónde se fue?
-Dialogue: 15,0:12:23.50,0:12:27.39,Youkoso,sign,0,0,0,,{\be2}Si falta alguien, nos restarán puntos a todos.
+Dialogue: 15,0:12:17.38,0:12:20.88,Youkoso,sign,0,0,0,,{\be2}Koenji no está. ¿Adónde se fue?
+Dialogue: 15,0:12:23.50,0:12:27.39,Youkoso,sign,0,0,0,,{\be2}Si falta alguien,\Nnos restarán puntos a todos.
 Dialogue: 15,0:12:29.24,0:12:31.60,Youkoso,sign,0,0,0,,{\be2}Buenos días, chicos.
-Dialogue: 15,0:12:31.60,0:12:35.74,Youkoso,sign,0,0,0,,{\be2}No hay nada mejor que entrenar al amanecer.
+Dialogue: 15,0:12:31.60,0:12:35.74,Youkoso,sign,0,0,0,,{\be2}No hay nada mejor\Nque entrenar al amanecer.
 Dialogue: 15,0:12:36.14,0:12:37.73,Youkoso,sign,0,0,0,,{\be2}¿Entrenar?
 Dialogue: 15,0:12:38.14,0:12:40.58,Youkoso,sign,0,0,0,,{\be2}Deja de actuar arrogantemente
 Dialogue: 15,0:12:40.58,0:12:43.48,Youkoso,sign,0,0,0,,{\be2}Y baja esos humos.
 Dialogue: 15,0:12:43.48,0:12:45.26,Youkoso,sign,0,0,0,,{\be2}En vez de preocuparte por mí,
-Dialogue: 15,0:12:45.26,0:12:48.75,Youkoso,sign,0,0,0,,{\be2}preocúpate de que lleguemos a tiempo a la reunión,
+Dialogue: 15,0:12:45.26,0:12:48.75,Youkoso,sign,0,0,0,,{\be2}preocúpate de que\Nlleguemos a tiempo a la reunión,
 Dialogue: 15,0:12:49.24,0:12:51.24,Youkoso,sign,0,0,0,,{\be2}delincuente anticuado.
 Dialogue: 15,0:12:51.24,0:12:53.25,Youkoso,sign,0,0,0,,{\be2}¿Buscas pelea?
 Dialogue: 15,0:12:53.25,0:12:55.51,Youkoso,sign,0,0,0,,{\be2}Por favor, dejen la pelea para luego.
@@ -730,7 +716,7 @@ Dialogue: 15,0:13:21.53,0:13:22.62,Youkoso,sign,0,0,0,,{\be2}Así es.
 Dialogue: 15,0:13:22.62,0:13:25.41,Youkoso,sign,0,0,0,,{\be2}Como Yukimura dijo:\Nno hay tiempo para esto.
 Dialogue: 15,0:13:25.41,0:13:29.50,Youkoso,sign,0,0,0,,{\be2}Si después del desayuno\Naún quieren pelearse, adelante.
 Dialogue: 15,0:13:29.50,0:13:31.04,Youkoso,sign,0,0,0,,{\be2}¿Les parece?
-Dialogue: 15,0:13:33.04,0:13:36.14,Youkoso,sign,0,0,0,,{\be2}Podrás vivir un poco más de tiempo, Koenji.
+Dialogue: 15,0:13:33.04,0:13:36.14,Youkoso,sign,0,0,0,,{\be2}Podrás vivir\Nun poco más de tiempo, Koenji.
 Dialogue: 15,0:13:36.14,0:13:40.54,Youkoso,sign,0,0,0,,{\be2}Sí, me alegro porque yo soy pacifista.
 Dialogue: 15,0:13:41.68,0:13:44.04,Youkoso,sign,0,0,0,,{\be2}Vamos, a la reunión.
 Dialogue: 15,0:13:44.04,0:13:45.56,Youkoso,sign,0,0,0,,{\be2}Sí.
@@ -775,27 +761,27 @@ Dialogue: 15,0:16:01.02,0:16:03.04,Youkoso,sign,0,0,0,,{\be2}Me muero de hambre.
 Dialogue: 15,0:16:07.30,0:16:09.18,Youkoso,sign,0,0,0,,{\be2}Lo siento, lo siento.
 Dialogue: 15,0:16:09.18,0:16:10.82,Youkoso,sign,0,0,0,,{\be2}¿Estás bien?
 Dialogue: 15,0:16:11.92,0:16:12.95,Youkoso,sign,0,0,0,,{\be2}Sí...
-Dialogue: 15,0:16:13.39,0:16:15.21,Youkoso,sign,0,0,0,,{\be2} no hay necesidad de preocuparse.
+Dialogue: 15,0:16:13.39,0:16:15.21,Youkoso,sign,0,0,0,,{\be2}no hay necesidad de preocuparse.
 Dialogue: 15,0:16:17.22,0:16:18.83,Youkoso,sign,0,0,0,,{\be2}Entonces...
 Dialogue: 15,0:16:18.83,0:16:20.21,Youkoso,sign,0,0,0,,{\be2}¿me voy?
 Dialogue: 15,0:16:20.90,0:16:22.00,Youkoso,sign,0,0,0,,{\be2}Sí.
 Dialogue: 15,0:16:22.00,0:16:23.96,Youkoso,sign,0,0,0,,{\be2}No te preocupes por mí.
-Dialogue: 15,0:16:25.48,0:16:29.22,Youkoso,sign,0,0,0,,{\be2}Sakayanagi es muy linda, pero ¿no es muy torpe?
+Dialogue: 15,0:16:25.48,0:16:29.22,Youkoso,sign,0,0,0,,{\be2}Sakayanagi es muy linda,\Npero ¿no es muy torpe?
 Dialogue: 15,0:16:29.22,0:16:32.72,Youkoso,sign,0,0,0,,{\be2}No digas eso después de haberla tirado.
 Dialogue: 15,0:16:33.13,0:16:34.45,Youkoso,Ayanokoji,0,0,0,,{\be2}¿Estás bien?
 Dialogue: 15,0:16:35.73,0:16:38.13,Youkoso,sign,0,0,0,,{\be2}Gracias por tu preocupación,\Npero no fue nada.
 Dialogue: 15,0:16:38.67,0:16:40.90,Youkoso,Ayanokoji,0,0,0,,{\be2}Le daré a Yamauchi\Nun sermón más tarde.
-Dialogue: 15,0:16:41.86,0:16:44.86,Youkoso,Sakayanagi,0,0,0,,{\be2}No es como si lo hubiera hecho a propósito.
+Dialogue: 15,0:16:41.86,0:16:44.86,Youkoso,Sakayanagi,0,0,0,,{\be2}No es como si\Nlo hubiera hecho a propósito.
 Dialogue: 15,0:16:45.36,0:16:48.22,Youkoso,Sakayanagi,0,0,0,,{\be2}Y sólo me hizo caer una vez.
-Dialogue: 15,0:16:54.50,0:16:58.68,Youkoso,Sakayanagi,0,0,0,,{\be2}Por cierto, sé que dije que te aplastaría,
+Dialogue: 15,0:16:54.50,0:16:58.68,Youkoso,Sakayanagi,0,0,0,,{\be2}Por cierto,\Nsé que dije que te aplastaría,
 Dialogue: 15,0:16:58.68,0:17:00.62,Youkoso,Sakayanagi,0,0,0,,{\be2}pero eso tendrá que esperar.
 Dialogue: 15,0:17:01.34,0:17:04.88,Youkoso,Sakayanagi,0,0,0,,{\be2}Primero voy a aplastar a la clase B.
-Dialogue: 15,0:17:05.52,0:17:08.75,Youkoso,Sakayanagi,0,0,0,,{\be2}La clase B es ciertamente una clase unida.
+Dialogue: 15,0:17:05.52,0:17:08.75,Youkoso,Sakayanagi,0,0,0,,{\be2}La clase B es ciertamente\Nuna clase unida.
 Dialogue: 15,0:17:08.75,0:17:11.20,Youkoso,Sakayanagi,0,0,0,,{\be2}Se podría decir que esto se debe a que
 Dialogue: 15,0:17:11.20,0:17:13.64,Youkoso,Sakayanagi,0,0,0,,{\be2}Ichinose Honami se ha ganado\Nsu confianza
 Dialogue: 15,0:17:13.64,0:17:15.19,Youkoso,Sakayanagi,0,0,0,,{\be2}dándolo todo hasta ahora.
-Dialogue: 15,0:17:15.77,0:17:19.88,Youkoso,Sakayanagi,0,0,0,,{\be2}Imagino que tiene tantos puntos privados
-Dialogue: 15,0:17:19.88,0:17:24.22,Youkoso,Sakayanagi,0,0,0,,{\be2}porque está actuando\Ncomo caja fuerte para su la clase.
+Dialogue: 15,0:17:15.77,0:17:19.88,Youkoso,Sakayanagi,0,0,0,,{\be2}Imagino que tiene\Ntantos puntos privados
+Dialogue: 15,0:17:19.88,0:17:24.22,Youkoso,Sakayanagi,0,0,0,,{\be2}porque está actuando\Ncomo caja fuerte para su clase.
 Dialogue: 15,0:17:25.27,0:17:27.15,Youkoso,Sakayanagi,0,0,0,,{\be2}Sin embargo,
 Dialogue: 15,0:17:27.15,0:17:30.52,Youkoso,Sakayanagi,0,0,0,,{\be2}me pregunto si es buena idea\Ndejarlos en sus manos.
 Dialogue: 15,0:17:31.53,0:17:35.35,Youkoso,Ayanokoji,0,0,0,,{\be2}Dudo que Ichinose los use\Npara su propio beneficio.
@@ -809,7 +795,7 @@ Dialogue: 15,0:18:04.62,0:18:07.38,Youkoso,Karuizawa,0,0,0,,{\be2}¿y si la hubi
 Dialogue: 15,0:18:08.40,0:18:11.03,Youkoso,Karuizawa,0,0,0,,{\be2}No lo habrías permitido.
 Dialogue: 15,0:18:11.94,0:18:14.06,Youkoso,Karuizawa,0,0,0,,{\be2}Pues no, pero…
 Dialogue: 15,0:18:14.06,0:18:15.49,Youkoso,Karuizawa,0,0,0,,{\be2}¿Y bien?
-Dialogue: 15,0:18:15.49,0:18:18.79,Youkoso,Karuizawa,0,0,0,,{\be2}¿Ya quieres contar con mis habilidades?
+Dialogue: 15,0:18:15.49,0:18:18.79,Youkoso,Karuizawa,0,0,0,,{\be2}¿Ya quieres contar\Ncon mis habilidades?
 Dialogue: 15,0:18:19.17,0:18:20.66,Youkoso,Ayanokoji,0,0,0,,{\be2}Digamos que sí.
 Dialogue: 15,0:18:21.34,0:18:24.42,Youkoso,Karuizawa,0,0,0,,{\be2}Quiero que vigiles a algunas personas.
 Dialogue: 15,0:18:34.22,0:18:36.43,Youkoso,Karuizawa,0,0,0,,{\be2}No parece fácil, pero lo intentaré.
@@ -818,21 +804,21 @@ Dialogue: 15,0:19:09.36,0:19:12.70,Youkoso Mind,Ayanokoji,0,0,0,,{\be2}En los ex
 Dialogue: 15,0:19:12.70,0:19:16.00,Youkoso Mind,Ayanokoji,0,0,0,,{\be2}aproveché agujeros en las normas.
 Dialogue: 15,0:19:18.28,0:19:21.96,Youkoso Mind,Ayanokoji,0,0,0,,{\be2}En la isla desierta,\Ncambié al líder retirando a Horikita.
 Dialogue: 15,0:19:23.24,0:19:26.73,Youkoso Mind,Ayanokoji,0,0,0,,{\be2}En el barco usé el truco de los celulares.
-Dialogue: 15,0:19:28.32,0:19:31.85,Youkoso Mind,Ayanokoji,0,0,0,,{\be2}En el festival deportivo destaqué a propósito.
+Dialogue: 15,0:19:28.32,0:19:31.85,Youkoso Mind,Ayanokoji,0,0,0,,{\be2}En el festival deportivo\Ndestaqué a propósito.
 Dialogue: 15,0:19:34.88,0:19:36.61,Youkoso Mind,Ayanokoji,0,0,0,,{\be2}Y en el Paper Shuffle
 Dialogue: 15,0:19:36.61,0:19:38.36,Youkoso Mind,Ayanokoji,0,0,0,,{\be2}lo preparé todo contra Kushida.
 Dialogue: 15,0:19:42.02,0:19:43.45,Youkoso Mind,Ayanokoji,0,0,0,,{\be2}Pero esta vez…
-Dialogue: 15,0:19:54.54,0:19:57.26,Youkoso,Ayanokoji,0,0,0,,{\be2}No esperaba que fueras a contactarme.
+Dialogue: 15,0:19:54.54,0:19:57.26,Youkoso,Ayanokoji,0,0,0,,{\be2}No esperaba que fueras\Na contactarme.
 Dialogue: 15,0:19:57.86,0:20:00.10,Youkoso,Manabu,0,0,0,,{\be2}¿Sabes por qué te llamé a esta hora?
 Dialogue: 15,0:20:00.64,0:20:02.16,Youkoso,Ayanokoji,0,0,0,,{\be2}Por Nagumo, supongo.
 Dialogue: 15,0:20:03.18,0:20:04.30,Youkoso,Manabu,0,0,0,,{\be2}Exacto.
-Dialogue: 15,0:20:04.30,0:20:07.98,Youkoso,Manabu,0,0,0,,{\be2}Todo el segundo año está bajo su control.
+Dialogue: 15,0:20:04.30,0:20:07.98,Youkoso,Manabu,0,0,0,,{\be2}Todo el segundo año\Nestá bajo su control.
 Dialogue: 15,0:20:08.88,0:20:10.90,Youkoso,Ayanokoji,0,0,0,,{\be2}¿Y qué quieres que haga?
 Dialogue: 15,0:20:11.62,0:20:14.65,Youkoso,Manabu,0,0,0,,{\be2}Me debes un favor.
 Dialogue: 15,0:20:19.82,0:20:23.46,Youkoso,Ayanokoji,0,0,0,,{\be2}Lidiarás con Nagumo, como acordamos.
 Dialogue: 15,0:20:24.48,0:20:26.40,Youkoso,Manabu,0,0,0,,{\be2}Mete a Suzune al consejo
 Dialogue: 15,0:20:26.40,0:20:29.96,Youkoso,Manabu,0,0,0,,{\be2}y sigue dándole instrucciones\Ndesde las sombras.
-Dialogue: 15,0:20:31.08,0:20:33.46,Youkoso,Ayanokoji,0,0,0,,{\be2}Lo que pides es una insensatez.
+Dialogue: 15,0:20:31.08,0:20:33.46,Youkoso,Ayanokoji,0,0,0,,{\be2}Lo que pides no tiene sentido.
 Dialogue: 15,0:20:34.10,0:20:35.16,Youkoso,Manabu,0,0,0,,{\be2}Naturalmente,
 Dialogue: 15,0:20:35.16,0:20:40.09,Youkoso,Manabu,0,0,0,,{\be2}no espero que hagas lo que yo quiera\Nsólo por deberme un favor.
 Dialogue: 15,0:20:40.78,0:20:43.60,Youkoso,Ayanokoji,0,0,0,,{\be2}Prácticamente no tengo información
@@ -843,26 +829,23 @@ Dialogue: 15,0:20:51.18,0:20:54.86,Youkoso,Manabu,0,0,0,,{\be2}Ikuto Kiriyama, d
 Dialogue: 15,0:20:57.36,0:20:59.90,Youkoso,Manabu,0,0,0,,{\be2}Públicamente obedece a Nagumo,
 Dialogue: 15,0:20:59.90,0:21:01.76,Youkoso,Manabu,0,0,0,,{\be2}pero es mi aliado.
 Dialogue: 15,0:21:02.64,0:21:04.62,Youkoso,Kiriyama,0,0,0,,{\be2}Déjame decirte algo, Ayanokoji.
-Dialogue: 15,0:21:04.62,0:21:07.74,Youkoso,Kiriyama,0,0,0,,{\be2}Todavía tengo mis dudas sobre tus capacidades.
-Dialogue: 15,0:21:10.25,0:21:14.10,Youkoso,Kiriyama,0,0,0,,{\be2}Pero haré lo que diga Horikita.
+Dialogue: 15,0:21:04.62,0:21:07.74,Youkoso,Kiriyama,0,0,0,,{\be2}Todavía tengo mis dudas\Nsobre tus capacidades.
+Dialogue: 15,0:21:10.25,0:21:14.10,Youkoso,Kiriyama,0,0,0,,{\be2}Pero haré todo lo que diga Horikita.
 Dialogue: 15,0:21:14.54,0:21:16.62,Youkoso,Manabu,0,0,0,,{\be2}Te lo agradezco, Kiriyama.
 Dialogue: 15,0:21:16.62,0:21:17.84,Youkoso,Kiriyama,0,0,0,,{\be2}Para nada.
 Dialogue: 15,0:21:17.84,0:21:20.86,Youkoso,Kiriyama,0,0,0,,{\be2}Defenderé la tradición que legaste.
 Dialogue: 15,0:21:22.62,0:21:27.02,Youkoso,Kiriyama,0,0,0,,{\be2}Nagumo piensa cambiar las bases\Nde la escuela con su influencia.
-Dialogue: 15,0:21:27.56,0:21:32.52,Youkoso,Kiriyama,0,0,0,,{\be2}El año que viene habrá más expulsados que nunca.
+Dialogue: 15,0:21:27.56,0:21:32.52,Youkoso,Kiriyama,0,0,0,,{\be2}El año que viene\Nhabrá más expulsados que nunca.
 Dialogue: 15,0:21:33.56,0:21:34.76,Youkoso,Ayanokoji,0,0,0,,{\be2}Ya veo.
-Dialogue: 15,0:21:35.42,0:21:39.28,Youkoso,Ayanokoji,0,0,0,,{\be2}¿Y qué pasa con tu duelo contra Nagumo?
+Dialogue: 15,0:21:35.42,0:21:39.28,Youkoso,Ayanokoji,0,0,0,,{\be2}¿Y qué pasa con\Ntu duelo contra Nagumo?
 Dialogue: 15,0:21:39.28,0:21:41.32,Youkoso,Manabu,0,0,0,,{\be2}Por ahora no será un problema.
-Dialogue: 15,0:21:41.78,0:21:44.96,Youkoso,Ayanokoji,0,0,0,,{\be2}¿No es posible que incumpla su promesa
+Dialogue: 15,0:21:41.78,0:21:44.96,Youkoso,Ayanokoji,0,0,0,,{\be2}¿No es posible que\Nincumpla su promesa
 Dialogue: 15,0:21:44.96,0:21:47.74,Youkoso,Ayanokoji,0,0,0,,{\be2}de no involucrar a otros?
-Dialogue: 15,0:21:48.50,0:21:50.92,Youkoso,Manabu,0,0,0,,{\be2}Nagumo siempre hace lo que haga falta,
-Dialogue: 15,0:21:50.92,0:21:55.96,Youkoso,Manabu,0,0,0,,{\be2}pero nunca ha incumplido una promesa.
+Dialogue: 15,0:21:48.50,0:21:50.92,Youkoso,Manabu,0,0,0,,{\be2}Nagumo siempre\Nhace lo que haga falta,
+Dialogue: 15,0:21:50.92,0:21:55.96,Youkoso,Manabu,0,0,0,,{\be2}pero nunca\Nha incumplido una promesa.
 Dialogue: 15,0:22:03.24,0:22:07.24,Youkoso,Ayanokoji,0,0,0,,{\be2}Es posible que Manabu Horikita pierda.
 Comment: 0,0:22:10.10,0:22:10.14,OPL Ep01,,0,0,0,,{Inicio Opening}
-Dialogue: 0,0:22:36.13,0:22:39.71,Signs,,0,0,0,,{\fnA-OTF Ryumin Pr6 EB-KL\fs60\bord0\blur6\c&H000000&\shad0\move(960,1072.2,960,-18.78,18,3563)\1a&H52&} One Fansub
-Dialogue: 1,0:22:36.13,0:22:39.71,Signs,,0,0,0,,{\fnA-OTF Ryumin Pr6 EB-KL\fs60\bord0.5\blur0.8\c&H000000&\shad2\move(960,1072.2,960,-18.78,18,3563)} One Fansub
-Dialogue: 2,0:22:36.13,0:22:39.71,Signs,,0,0,0,,{\fnA-OTF Ryumin Pr6 EB-KL\fs60\bord0\blur0.8\4a&HFF&\move(960,1072.2,960,-18.78,18,3563)} One Fansub
-Dialogue: 1,0:22:11.14,0:22:14.15,OPL Ep01,,0,0,0,fx,{=18}{\an7\pos(344,56)\fscx1520.076375\fscy800\1c&HFFFFFF&\blur1\bord0\p1\clip(15,89,673,93)\t(0,200,\clip(15,10,673,93))\t(2810,3010,\clip(15,10,673,15))}m 0 0 m -40 -4 l 40 -4 l 40 4 l -40 4
+Dialogue: 1,0:22:11.14,0:22:14.15,OPL Ep01,,0,0,0,fx,{\an7\pos(344,56)\fscx1520.076375\fscy800\1c&HFFFFFF&\blur1\bord0\p1\clip(15,89,673,93)\t(0,200,\clip(15,10,673,93))\t(2810,3010,\clip(15,10,673,15))}m 0 0 m -40 -4 l 40 -4 l 40 4 l -40 4
 Dialogue: 2,0:22:11.14,0:22:14.15,OPL Ep01,,0,0,0,fx,{\an7\pos(76,56)\fscx80\fscy820\1c&H000000&\3c&H000000&\blur0.7\ybord0\xbord4\p1\clip(10,89,678,93)\t(0,200,\clip(10,10,678,93))\t(2810,3010,\clip(10,10,678,15))}m 0 0 m -40 -4 l 40 -4 l 40 4 l -40 4
 Dialogue: 3,0:22:11.14,0:22:14.15,OPL Ep01,,0,0,0,fx,{\an7\pos(76,56)\fscx80\fscy820\1c&H7200FF&\blur0.7\p1\clip(10,89,678,93)\t(0,200,\clip(10,10,678,93))\t(2810,3010,\clip(10,10,678,15))\t(1354.5,1354.5,\c&HFFE100&)\t(1474.9,1474.9,\c&H00A8FF&)\t(1595.3,1595.3,\c&H00FF38&)\t(1715.7,1715.7,\c&H7200FF&)}m 0 0 m -40 -4 l 40 -4 l 40 4 l -40 4
 Dialogue: 4,0:22:11.28,0:22:14.16,OPL Ep01,,0,0,0,fx,{\an7\pos(40,25)\fscx71257.3875\fscy50\1c&H000000&\blur0.7\p1\clip(10,10,30,93)\t(0,400,\clip(10,10,678,93))\t(2580,2880,\clip(10,10,30,93))}m 0 0 m -100 -4 l 100 -4 l 100 4 l -100 4
@@ -5562,8 +5545,8 @@ Dialogue: 2,0:23:36.51,0:23:39.49,OPR Ep01 - Español,,0,0,0,fx,{\an5\fad(50,0)\
 Dialogue: 1,0:23:36.51,0:23:39.49,OPR Ep01 - Español,,0,0,0,fx,{\an5\fad(50,0)\pos(1843,1032)\1c&H000000&\3c&H000000&\blur1\bord2.2\clip(738,1065,1900,1069)\t(0,200,\clip(738,993,1900,1069))\t(2780,2980,\clip(738,993,1900,998))}z
 Dialogue: 2,0:23:36.51,0:23:39.49,OPR Ep01 - Español,,0,0,0,fx,{\an5\fad(50,0)\pos(1843,1032)\1c&HFFFFFF&\blur0.8\bord0\clip(738,1065,1900,1069)\t(0,200,\clip(738,993,1900,1069))\t(2780,2980,\clip(738,993,1900,998))}z
 Dialogue: 1,0:23:36.51,0:23:39.49,OPR Ep01 - Español,,0,0,0,fx,{\an5\fad(50,0)\pos(1867,1032)\1c&H000000&\3c&H000000&\blur1\bord2.2\clip(738,1065,1900,1069)\t(0,200,\clip(738,993,1900,1069))\t(2780,2980,\clip(738,993,1900,998))}a
-Dialogue: 2,0:23:36.51,0:23:39.49,OPR Ep01 - Español,,0,0,0,fx,{=19}{\an5\fad(50,0)\pos(1867,1032)\1c&HFFFFFF&\blur0.8\bord0\clip(738,1065,1900,1069)\t(0,200,\clip(738,993,1900,1069))\t(2780,2980,\clip(738,993,1900,998))}a
-Comment: 0,0:22:07.24,0:22:10.10,Youkoso,,0,0,0,,
+Dialogue: 2,0:23:36.51,0:23:39.49,OPR Ep01 - Español,,0,0,0,fx,{\an5\fad(50,0)\pos(1867,1032)\1c&HFFFFFF&\blur0.8\bord0\clip(738,1065,1900,1069)\t(0,200,\clip(738,993,1900,1069))\t(2780,2980,\clip(738,993,1900,998))}a
+Dialogue: 0,0:22:07.24,0:22:10.24,Youkoso,,0,0,0,,
 
 [Aegisub Extradata]
 Data: 4,_aegi_folddata,e0;1;3
@@ -5574,5 +5557,3 @@ Data: 12,_aegi_folddata,e0;1;7
 Data: 13,_aegi_folddata,e1;1;7
 Data: 14,_aegi_folddata,e0;1;8
 Data: 15,_aegi_folddata,e1;1;8
-Data: 18,_aegi_folddata,e0;1;9
-Data: 19,_aegi_folddata,e1;1;9
