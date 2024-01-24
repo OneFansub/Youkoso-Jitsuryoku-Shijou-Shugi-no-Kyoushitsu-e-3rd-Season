@@ -16,9 +16,10 @@ Audio File: [One Fansub] Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 3rd Sea
 Video File: [One Fansub] Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 3rd Season - 01 [WebRip 1080p HEVC-10bits AAC].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.625000
-Active Line: 6
-Video Position: 32563
+Video Zoom Percent: 0.500000
+Scroll Position: 15
+Active Line: 253
+Video Position: 25196
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -227,11 +228,11 @@ Dialogue: 0,0:00:22.02,0:00:24.50,Signs,,0,0,0,,{=5}{\clip()\alpha&H00&\an7\move
 Dialogue: 0,0:02:19.33,0:02:23.33,Signs,,0,0,0,,{\an7\fad(0,0)\c&HF0EDEE&\alpha&H00&\blur2\pos(0,0)\fscx100\fscy100\p1}m 338.53 110.75 l 1275.2 -38.2 1516.8 1083.4 584.43 1083.79 b 601.75 997.78 568.93 937.92 522.61 928.91
 Dialogue: 1,0:02:19.32,0:02:23.33,Signs,,0,0,0,,{\fnFOT-TsukuMin Pr5 M\an7\fs50\c&H605C5A&\blur2\b0\fax0.000002\fscx106.58\fscy93.15\frz11.5637\frx-0.0192\fry0.0598\org(13015.5,14324.34)\pos(4132.44,-1211.97)}1) Zen\N\h\h\h{\blur1.5}Meditación sentada (zazen) en el dojo.{\blur1.1}\N\h\h\hSe evaluarán la postura y la etiqueta.\N\N2) Examen escrito\N\h\h\h\hUna prueba escrita centrada alrededor\N\h\h\h\hde preguntas sobre moral.\N\h\h\h\hSe valorará la puntuación.\N\N3) Discurso\N\h\h\h\hTodos los participantes del grupo\N\h\h\h\hdarán un discurso.\N\h\h\h\hSe evaluará el volumen de voz,\N\h\h\h\hla postura, el contenido y la forma\N\h\h\h\hde expresarse.\N\N4) Carrera de relevos\N\h\h\h\hLa prueba será una carrera de relevos\N\h\h\h\h{\blur1.5}con todos los miembros del grupo.\N\h\h\h\h{\blur2}Se valorarán la posición y el tiempo.
 Dialogue: 2,0:02:19.33,0:02:23.33,Signs,,0,0,0,,{\an7\fad(0,0)\c&HF0EDEE&\alpha&H00&\blur100\pos(0,0)\fscx100\fscy100\p1\1a&H8B&\clip(m 338.53 110.75 l 1275.2 -38.2 1516.8 1083.4 584.43 1083.79 b 601.75 997.78 568.93 937.92 522.61 928.91)}m 563.33 -23.39 b 933.69 155.96 1253.36 779.78 1202.68 1224.26 l 2124.67 1232.06 1734.83 -366.5
-Dialogue: 2,0:04:23.78,0:04:25.78,Signs,,0,0,0,,{\an7\fnFOT-TsukuMin Pr5 M\fs32\c&HFAE047&\blur5\frz13.01\fax0.07\fscx94.26\fscy94.26\pos(774.46,367.09)\alpha&H80&\1a&H4B&}Tiene un nuevo mensaje
-Dialogue: 3,0:04:23.78,0:04:25.78,Signs,,0,0,0,,{\an7\fnFOT-TsukuMin Pr5 M\fs32\c&HFAE047&\blur0.8\frz13.01\fax0.07\fscx94.26\fscy94.26\pos(774.46,367.09)}Tiene un nuevo mensaje
-Dialogue: 2,0:04:23.78,0:04:25.78,Signs,,0,0,0,,{\fnFOT-TsukuMin Pr5 M\fs55\c&HF1E1D1&\blur5\frz13.01\fax0.07\fscx94.26\fscy94.26\alpha&H80&\pos(876.6,406.79)}De: A
-Dialogue: 3,0:04:23.78,0:04:25.78,Signs,,0,0,0,,{\fnFOT-TsukuMin Pr5 M\fs55\c&HF1E1D1&\blur0.8\frz13.01\fax0.07\fscx94.26\fscy94.26\pos(876.6,406.79)}De: A
-Dialogue: 2,0:04:23.78,0:04:25.78,Signs,,0,0,0,,{\fnFOT-TsukuMin Pr5 M\fs40\an7\bord0\c&HF1E1D1&\blur5\frz13.11\fax0\alpha&H80&\pos(711.1,563.91)}Cancelar
+Dialogue: 2,0:04:23.78,0:04:25.78,Signs,,0,0,0,,{=28}{\an7\fnFOT-TsukuMin Pr5 M\fs32\c&HFAE047&\blur5\alpha&H80&\1a&H4B&\fax0.004793\fscx91.31\fscy93.14\frz13.0433\frx-0.1977\fry0.4184\org(885.15,356.99)\pos(770.72,344.85)}Tiene un nuevo mensaje
+Dialogue: 3,0:04:23.78,0:04:25.78,Signs,,0,0,0,,{=28}{\an7\fnFOT-TsukuMin Pr5 M\fs32\c&HFAE047&\blur0.8\fax0.004793\fscx91.31\fscy93.14\frz13.0433\frx-0.1977\fry0.4184\org(885.15,356.99)\pos(770.72,344.85)}Tiene un nuevo mensaje
+Dialogue: 2,0:04:23.78,0:04:25.78,Signs,,0,0,0,,{=35}{\fnFOT-TsukuMin Pr5 M\fs55\c&HF1E1D1&\blur5\alpha&H80&\fax0.003657\fscx91.02\fscy94.02\frz13.0932\frx-0.2404\fry0.4093\org(876.6,406.79)\pos(884.35,406.7)}De: A
+Dialogue: 3,0:04:23.78,0:04:25.78,Signs,,0,0,0,,{=35}{\fnFOT-TsukuMin Pr5 M\fs55\c&HF1E1D1&\blur0.8\fax0.003657\fscx91.02\fscy94.02\frz13.0932\frx-0.2404\fry0.4093\org(876.6,406.79)\pos(884.35,406.7)}De: A
+Dialogue: 2,0:04:23.78,0:04:25.78,Signs,,0,0,0,,{\fnFOT-TsukuMin Pr5 M\fs40\an7\bord0\c&HF1E1D1&\blur5\frz13.11\fax0\alpha&H80&\pos(711.1,563.91)\1a&H6C&}Cancelar
 Dialogue: 3,0:04:23.78,0:04:25.78,Signs,,0,0,0,,{\fnFOT-TsukuMin Pr5 M\fs40\an7\bord0\c&HF1E1D1&\blur0.8\frz13.11\fax0\pos(711.1,563.91)}Cancelar
 Dialogue: 2,0:04:23.78,0:04:25.78,Signs,,0,0,0,,{\fnFOT-TsukuMin Pr5 M\fs40\an7\bord0\c&H6AFB9B&\blur5\frz13.11\fax0\alpha&H80&\1a&H00&\pos(1031.87,488.89)}Abrir
 Dialogue: 3,0:04:23.78,0:04:25.78,Signs,,0,0,0,,{\fnFOT-TsukuMin Pr5 M\fs40\an7\bord0\c&H6AFB9B&\blur0.8\frz13.11\fax0\pos(1031.87,488.89)}Abrir
@@ -5557,3 +5558,20 @@ Data: 12,_aegi_folddata,e0;1;7
 Data: 13,_aegi_folddata,e1;1;7
 Data: 14,_aegi_folddata,e0;1;8
 Data: 15,_aegi_folddata,e1;1;8
+Data: 16,_aegi_perspective_ambient_plane,e561.01;400.93#7C1088.82;278.98#7C1179.97;576.84#7C652.16;698.80
+Data: 17,_aegi_perspective_ambient_plane,e561.01;400.93#7C1151.15;264.58#7C1242.30;562.44#7C652.16;698.80
+Data: 18,_aegi_perspective_ambient_plane,e561.39;402.14#7C1152.93;265.46#7C1243.70;562.12#7C652.16;698.80
+Data: 19,_aegi_perspective_ambient_plane,e581.11;397.58#7C1152.93;265.46#7C1243.70;562.11#7C652.17;698.78
+Data: 20,_aegi_perspective_ambient_plane,e581.11;397.58#7C1152.93;265.46#7C1222.82;566.93#7C652.17;698.78
+Data: 24,_aegi_perspective_ambient_plane,e579.14;397.94#7C1151.53;265.69#7C1221.31;566.68#7C651.04;702.66
+Data: 25,_aegi_perspective_ambient_plane,e579.14;397.94#7C1151.53;265.69#7C1220.72;564.15#7C651.04;702.66
+Data: 26,_aegi_perspective_ambient_plane,e579.14;397.94#7C1151.53;265.69#7C1220.72;564.15#7C650.34;699.70
+Data: 27,_aegi_perspective_ambient_plane,e579.14;397.94#7C1151.53;265.69#7C1220.72;564.15#7C652.02;699.30
+Data: 28,_aegi_perspective_ambient_plane,e578.28;398.14#7C1152.38;265.49#7C1221.56;563.95#7C651.16;699.50
+Data: 29,_aegi_perspective_ambient_plane,e767.70;354.28#7C1153.22;265.21#7C1190.62;387.43#7C805.10;476.50
+Data: 30,_aegi_perspective_ambient_plane,e561.58;401.91#7C1153.22;265.21#7C1244.00;561.84#7C652.35;698.54
+Data: 31,_aegi_perspective_ambient_plane,e579.61;397.74#7C1153.22;265.21#7C1243.99;561.84#7C652.35;698.54
+Data: 32,_aegi_perspective_ambient_plane,e579.61;397.74#7C1153.22;265.21#7C1224.21;566.41#7C652.35;698.54
+Data: 33,_aegi_perspective_ambient_plane,e579.61;397.74#7C1153.22;265.21#7C1222.72;566.75#7C652.35;698.54
+Data: 34,_aegi_perspective_ambient_plane,e579.61;397.74#7C1153.22;265.21#7C1221.95;563.38#7C652.35;698.54
+Data: 35,_aegi_perspective_ambient_plane,e580.45;397.55#7C1152.40;265.40#7C1221.13;563.57#7C653.19;698.34
