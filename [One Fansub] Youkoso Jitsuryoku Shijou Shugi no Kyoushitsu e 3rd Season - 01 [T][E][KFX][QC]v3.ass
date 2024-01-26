@@ -11,15 +11,16 @@ WrapStyle: 0
 YCbCr Matrix: TV.709
 
 [Aegisub Project Garbage]
+Automation Scripts: $C:/Users/luisc/OneDrive/Escritorio/Subs/0x.NotFuniDidntLaugh.moon
 Last Style Storage: COTE 03
-Audio File: [One Fansub] Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 3rd Season - 01 [WebRip 1080p HEVC-10bits AAC].mkv
-Video File: [One Fansub] Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 3rd Season - 01 [WebRip 1080p HEVC-10bits AAC].mkv
+Audio File: ../../../../../Downloads/[One Fansub] Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 3rd Season - 01 [WebRip 1080p HEVC-10bits AAC].mkv
+Video File: ../../../../../Downloads/[One Fansub] Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 3rd Season - 01 [WebRip 1080p HEVC-10bits AAC].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 252
-Active Line: 659
-Video Position: 25196
+Scroll Position: 318
+Active Line: 704
+Video Position: 21823
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -738,7 +739,8 @@ Dialogue: 15,0:14:57.34,0:14:58.63,Youkoso,sign,0,0,0,,{\be2}Este…
 Dialogue: 15,0:14:58.63,0:15:00.28,Youkoso,sign,0,0,0,,{\be2}Shiina.
 Dialogue: 15,0:15:00.28,0:15:04.38,Youkoso,sign,0,0,0,,{\be2}Cuando estás nerviosa\Nte cansas antes, ¿verdad?
 Dialogue: 15,0:15:04.38,0:15:09.16,Youkoso,sign,0,0,0,,{\be2}Además, estamos rodeadas de gente\Ncon la que no tratamos.
-Dialogue: 15,0:15:09.64,0:15:10.97,Youkoso,sign,0,0,0,,{\be2}¿Eh?, este…
+Dialogue: 15,0:15:09.64,0:15:10.18,Youkoso,sign,0,0,0,,{\be2}¿Eh?
+Dialogue: 15,0:15:10.18,0:15:10.97,Youkoso,sign,0,0,0,,{\be2}Este…
 Dialogue: 15,0:15:10.97,0:15:12.77,Youkoso,sign,0,0,0,,{\be2}No, yo…
 Dialogue: 15,0:15:12.77,0:15:15.60,Youkoso,sign,0,0,0,,{\be2}Es normal que te alteres al pensar
 Dialogue: 15,0:15:15.60,0:15:17.80,Youkoso,sign,0,0,0,,{\be2}que hay que ser amigos enseguida.
