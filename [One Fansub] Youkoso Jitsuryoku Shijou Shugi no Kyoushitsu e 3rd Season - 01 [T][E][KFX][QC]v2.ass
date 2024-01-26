@@ -17,7 +17,8 @@ Video File: [One Fansub] Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 3rd Sea
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Active Line: 6
+Scroll Position: 180
+Active Line: 576
 Video Position: 25196
 
 [V4+ Styles]
@@ -671,7 +672,7 @@ Dialogue: 15,0:10:57.43,0:11:00.60,Youkoso,sign,0,0,0,,{\be2}destrozaría la cla
 Dialogue: 15,0:11:00.60,0:11:04.02,Youkoso,sign,0,0,0,,{\be2}Y así, no podrías llegar\Na ser de la clase A.
 Dialogue: 15,0:11:04.02,0:11:05.06,Youkoso,sign,0,0,0,,{\be2}Entonces…
 Dialogue: 15,0:11:04.77,0:11:05.77,Youkoso,sign,0,0,0,,{\an8\be2}Pero verás,
-Dialogue: 15,0:11:05.77,0:11:08.96,Youkoso,sign,0,0,0,,{\be2}La situación actual es\Nbastante inflexible.
+Dialogue: 15,0:11:05.77,0:11:08.96,Youkoso,sign,0,0,0,,{\be2}la situación actual es\Nbastante inflexible.
 Dialogue: 15,0:11:08.96,0:11:11.40,Youkoso,sign,0,0,0,,{\be2}¿Tú obedecerías a quien te pide ayuda
 Dialogue: 15,0:11:11.40,0:11:15.78,Youkoso,sign,0,0,0,,{\be2}diciendo que no te hará daño\Npero con un cuchillo en tu garganta?
 Dialogue: 15,0:11:16.21,0:11:17.82,Youkoso,sign,0,0,0,,{\be2}Eres inteligente.
