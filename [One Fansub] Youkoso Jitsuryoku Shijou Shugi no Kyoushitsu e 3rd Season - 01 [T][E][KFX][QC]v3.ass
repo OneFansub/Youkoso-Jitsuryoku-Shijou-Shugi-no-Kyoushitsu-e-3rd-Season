@@ -11,15 +11,14 @@ WrapStyle: 0
 YCbCr Matrix: TV.709
 
 [Aegisub Project Garbage]
-Automation Scripts: $C:/Users/luisc/OneDrive/Escritorio/Subs/0x.NotFuniDidntLaugh.moon
 Last Style Storage: COTE 03
 Audio File: ../../../../../Downloads/[One Fansub] Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 3rd Season - 01 [WebRip 1080p HEVC-10bits AAC].mkv
 Video File: ../../../../../Downloads/[One Fansub] Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 3rd Season - 01 [WebRip 1080p HEVC-10bits AAC].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 330
-Active Line: 717
+Scroll Position: 375
+Active Line: 764
 Video Position: 22618
 
 [V4+ Styles]
@@ -509,7 +508,7 @@ Dialogue: 15,0:02:53.82,0:02:56.61,Youkoso,sign,0,0,0,,{\be2}Últimamente me por
 Dialogue: 15,0:02:58.54,0:03:02.18,Youkoso,Hirata,0,0,0,,{\be2}No expulsarán a nadie de esta clase.
 Dialogue: 15,0:03:02.18,0:03:05.75,Youkoso,Hirata,0,0,0,,{\be2}Si pasa algo, vengan a pedirme consejo.
 Dialogue: 15,0:03:05.75,0:03:08.64,Youkoso,sign,0,0,0,,{\be2}¿Pero cómo vamos a hablar contigo?
-Dialogue: 15,0:03:08.64,0:03:11.88,Youkoso,sign,0,0,0,,{\be2}Chicos y chicas sólo\Nnos veremos al cenar.
+Dialogue: 15,0:03:08.64,0:03:11.88,Youkoso,sign,0,0,0,,{\be2}Chicos y chicas solo\Nnos veremos al cenar.
 Dialogue: 15,0:03:11.88,0:03:14.76,Youkoso,sign,0,0,0,,{\be2}Y nos van a quitar esto.
 Dialogue: 15,0:03:14.76,0:03:15.88,Youkoso,Hirata,0,0,0,,{\be2}Sí.
 Dialogue: 15,0:03:15.88,0:03:17.34,Youkoso,Hirata,0,0,0,,{\be2}Por eso debería haber
@@ -577,7 +576,7 @@ Dialogue: 15,0:05:46.48,0:05:48.08,Youkoso,Nagumo,0,0,0,,{\an8\be2}Horikita.
 Dialogue: 15,0:05:48.76,0:05:52.33,Youkoso,Nagumo,0,0,0,,{\be2}¿Por qué no competimos\Ncuando tengamos los grupos?
 Dialogue: 15,0:05:54.33,0:05:56.36,Youkoso,sign,0,0,0,,{\be2}Déjate de bromas.
 Dialogue: 15,0:05:56.36,0:05:59.96,Youkoso,sign,0,0,0,,{\be2}¿De qué sirve competir\Nentre segundo y tercero?
-Dialogue: 15,0:05:59.96,0:06:02.98,Youkoso,Nagumo,0,0,0,,{\be2}Sólo quiero una batalla\Nentre el expresidente
+Dialogue: 15,0:05:59.96,0:06:02.98,Youkoso,Nagumo,0,0,0,,{\be2}Solo quiero una batalla\Nentre el expresidente
 Dialogue: 15,0:06:02.98,0:06:06.68,Youkoso,Nagumo,0,0,0,,{\be2}y el actual presidente\Ndel consejo estudiantil.
 Dialogue: 15,0:06:06.68,0:06:09.24,Youkoso,Nagumo,0,0,0,,{\be2}Quiero ponerme a prueba
 Dialogue: 15,0:06:09.24,0:06:13.22,Youkoso,Nagumo,0,0,0,,{\be2}y ver si te he superado antes de que\Nte gradúes y desaparezcas.
@@ -588,10 +587,10 @@ Dialogue: 15,0:06:24.16,0:06:25.66,Youkoso,Nagumo,0,0,0,,{\be2}Sencillo, ¿no?
 Dialogue: 15,0:06:25.66,0:06:27.20,Youkoso,sign,0,0,0,,{\be2}Ya veo.
 Dialogue: 15,0:06:27.20,0:06:29.44,Youkoso,sign,0,0,0,,{\be2}Si ese es el caso,\Nno me importa aceptar.
 Dialogue: 15,0:06:29.44,0:06:32.66,Youkoso,sign,0,0,0,,{\be2}Sin embargo, no involucres a los demás.
-Dialogue: 15,0:06:32.66,0:06:35.30,Youkoso,sign,0,0,0,,{\be2}Esta es una pelea sólo entre tú y yo, ¿eh?
+Dialogue: 15,0:06:32.66,0:06:35.30,Youkoso,sign,0,0,0,,{\be2}Esta es una pelea solo entre tú y yo, ¿eh?
 Dialogue: 15,0:06:35.30,0:06:36.96,Youkoso,Nagumo,0,0,0,,{\be2}Estoy bien con eso.
 Dialogue: 15,0:06:37.76,0:06:40.18,Youkoso,Nagumo,0,0,0,,{\be2}Sin sanciones para el perdedor.
-Dialogue: 15,0:06:40.18,0:06:43.98,Youkoso,Nagumo,0,0,0,,{\be2}Sólo una lucha con\Nnuestro orgullo en juego.
+Dialogue: 15,0:06:40.18,0:06:43.98,Youkoso,Nagumo,0,0,0,,{\be2}Solo una lucha con\Nnuestro orgullo en juego.
 Dialogue: 15,0:06:45.44,0:06:48.48,Youkoso,sign,0,0,0,,{\be2}No puedo creer que\Nmi hermano haya aceptado.
 Dialogue: 15,0:06:49.30,0:06:52.46,Youkoso Mind,sign,0,0,0,,{\be2}Miyabi Nagumo,\Nactual presidente del consejo.
 Dialogue: 15,0:06:54.32,0:06:56.28,Youkoso Mind,sign,0,0,0,,{\be2}Parece muy confiado.
@@ -605,7 +604,7 @@ Dialogue: 15,0:07:28.97,0:07:30.84,Youkoso,sign,0,0,0,,{\be2}No digas tonterías
 Dialogue: 15,0:07:30.84,0:07:31.64,Youkoso,sign,0,0,0,,{\be2}Exacto.
 Dialogue: 15,0:07:31.64,0:07:33.10,Youkoso,sign,0,0,0,,{\be2}Vamos a decidirlo.
 Dialogue: 15,0:07:33.10,0:07:35.44,Youkoso,sign,0,0,0,,{\be2}¿Como así, Yukimura?
-Dialogue: 15,0:07:35.44,0:07:39.52,Youkoso,sign,0,0,0,,{\be2}No creas que mandas sólo\Npor ser el líder del grup...
+Dialogue: 15,0:07:35.44,0:07:39.52,Youkoso,sign,0,0,0,,{\be2}No creas que mandas solo\Npor ser el líder del grup...
 Dialogue: 15,0:07:48.16,0:07:50.83,Youkoso Mind,sign,0,0,0,,{\fad(0,526)\be2}Parece que quedó con secuelas.
 Dialogue: 15,0:07:53.50,0:07:56.74,Youkoso,sign,0,0,0,,{\be2}Yo me colocaré en el centro.
 Dialogue: 15,0:08:00.20,0:08:01.20,Youkoso,sign,0,0,0,,{\be2}¡Oye!
@@ -637,7 +636,7 @@ Dialogue: 15,0:09:14.08,0:09:15.83,Youkoso,sign,0,0,0,,{\be2}No te esmeres mucho
 Dialogue: 15,0:09:15.83,0:09:17.86,Youkoso,sign,0,0,0,,{\be2}Está bien, está bien.
 Dialogue: 15,0:09:17.86,0:09:20.66,Youkoso,sign,0,0,0,,{\be2}Ser enérgica es lo único\Nque tengo a mi favor.
 Dialogue: 15,0:09:21.32,0:09:22.83,Youkoso,sign,0,0,0,,{\be2}Por cierto,
-Dialogue: 15,0:09:22.83,0:09:27.24,Youkoso,sign,0,0,0,,{\be2}chicos y chicas sólo podemos\Nestar juntos en este comedor.
+Dialogue: 15,0:09:22.83,0:09:27.24,Youkoso,sign,0,0,0,,{\be2}chicos y chicas solo podemos\Nestar juntos en este comedor.
 Dialogue: 15,0:09:27.24,0:09:30.59,Youkoso,sign,0,0,0,,{\be2}Está claro lo que pretende la escuela.
 Dialogue: 15,0:09:31.00,0:09:32.22,Youkoso,sign,0,0,0,,{\be2}¿Lo que pretende?
 Dialogue: 15,0:09:32.22,0:09:33.34,Youkoso,sign,0,0,0,,{\be2}Sí.
@@ -725,7 +724,7 @@ Dialogue: 15,0:13:44.04,0:13:45.55,Youkoso,sign,0,0,0,,{\an8\be2}Demonios.
 Dialogue: 15,0:13:45.56,0:13:49.10,Youkoso Mind,sign,0,0,0,,{\be2}Se nota que trabaja con Sakayanagi.
 Dialogue: 15,0:13:49.10,0:13:50.92,Youkoso Mind,sign,0,0,0,,{\be2}Es un buen líder.
 Dialogue: 15,0:13:54.64,0:13:57.50,Youkoso,sign,0,0,0,,{\i1\be2}Por la mañana empezamos a limpiar.
-Dialogue: 15,0:13:58.07,0:14:00.16,Youkoso,sign,0,0,0,,{\i1\be2}No sólo las instalaciones.
+Dialogue: 15,0:13:58.07,0:14:00.16,Youkoso,sign,0,0,0,,{\i1\be2}No solo las instalaciones.
 Dialogue: 15,0:14:00.57,0:14:03.04,Youkoso,sign,0,0,0,,{\i1\be2}También los alrededores.
 Dialogue: 15,0:14:07.88,0:14:12.08,Youkoso,sign,0,0,0,,{\i1\be2}Luego nos disciplinamos mediante zazen.
 Dialogue: 15,0:14:12.08,0:14:13.84,Youkoso,sign,0,0,0,,{\i1\be2}Aunque sea poco tiempo,
@@ -774,7 +773,7 @@ Dialogue: 15,0:16:33.13,0:16:34.45,Youkoso,Ayanokoji,0,0,0,,{\be2}¿Estás bien?
 Dialogue: 15,0:16:35.73,0:16:38.13,Youkoso,sign,0,0,0,,{\be2}Gracias por tu preocupación,\Npero no fue nada.
 Dialogue: 15,0:16:38.67,0:16:40.90,Youkoso,Ayanokoji,0,0,0,,{\be2}Le daré a Yamauchi\Nun sermón más tarde.
 Dialogue: 15,0:16:41.86,0:16:44.86,Youkoso,Sakayanagi,0,0,0,,{\be2}No es como si\Nlo hubiera hecho a propósito.
-Dialogue: 15,0:16:45.36,0:16:48.22,Youkoso,Sakayanagi,0,0,0,,{\be2}Y sólo me hizo caer una vez.
+Dialogue: 15,0:16:45.36,0:16:48.22,Youkoso,Sakayanagi,0,0,0,,{\be2}Y solo me hizo caer una vez.
 Dialogue: 15,0:16:54.50,0:16:58.68,Youkoso,Sakayanagi,0,0,0,,{\be2}Por cierto,\Nsé que dije que te aplastaría,
 Dialogue: 15,0:16:58.68,0:17:00.62,Youkoso,Sakayanagi,0,0,0,,{\be2}pero eso tendrá que esperar.
 Dialogue: 15,0:17:01.34,0:17:04.88,Youkoso,Sakayanagi,0,0,0,,{\be2}Primero voy a aplastar a la clase B.
@@ -822,7 +821,7 @@ Dialogue: 15,0:20:24.48,0:20:26.40,Youkoso,Manabu,0,0,0,,{\be2}Mete a Suzune al 
 Dialogue: 15,0:20:26.40,0:20:29.96,Youkoso,Manabu,0,0,0,,{\be2}y sigue dándole instrucciones\Ndesde las sombras.
 Dialogue: 15,0:20:31.08,0:20:33.46,Youkoso,Ayanokoji,0,0,0,,{\be2}Lo que pides no tiene sentido.
 Dialogue: 15,0:20:34.10,0:20:35.16,Youkoso,Manabu,0,0,0,,{\be2}Naturalmente,
-Dialogue: 15,0:20:35.16,0:20:40.09,Youkoso,Manabu,0,0,0,,{\be2}no espero que hagas lo que yo quiera\Nsólo por deberme un favor.
+Dialogue: 15,0:20:35.16,0:20:40.09,Youkoso,Manabu,0,0,0,,{\be2}no espero que hagas lo que yo quiera\Nsolo por deberme un favor.
 Dialogue: 15,0:20:40.78,0:20:43.60,Youkoso,Ayanokoji,0,0,0,,{\be2}Prácticamente no tengo información
 Dialogue: 15,0:20:43.60,0:20:45.85,Youkoso,Ayanokoji,0,0,0,,{\be2}sobre los de años superiores.
 Dialogue: 15,0:20:45.85,0:20:48.28,Youkoso,Manabu,0,0,0,,{\be2}Te presentaré a alguien que te la dará.
