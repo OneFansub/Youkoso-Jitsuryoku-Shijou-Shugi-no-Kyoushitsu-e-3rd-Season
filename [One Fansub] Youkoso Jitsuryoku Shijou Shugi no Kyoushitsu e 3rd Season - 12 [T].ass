@@ -12,15 +12,14 @@ YCbCr Matrix: TV.709
 
 [Aegisub Project Garbage]
 Last Style Storage: COTE 03
-Audio File: [Erai-raws] Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e S3 - 12 [1080p][HEVC][Multiple Subtitle][672CD439].mkv
-Video File: [Erai-raws] Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e S3 - 12 [1080p][HEVC][Multiple Subtitle][672CD439].mkv
-Keyframes File: Youkoso-Jitsuryoku-Shijou-Shugi-no-Kyoushitsu-e-3rd-Season/Keyframes/12.log
+Audio File: ../[Erai-raws] Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e S3 - 12 [1080p][HEVC][Multiple Subtitle][672CD439].mkv
+Video File: ../[Erai-raws] Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e S3 - 12 [1080p][HEVC][Multiple Subtitle][672CD439].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 272
-Active Line: 277
-Video Position: 31074
+Scroll Position: 114
+Active Line: 122
+Video Position: 13451
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -158,7 +157,7 @@ Dialogue: 0,0:09:05.67,0:09:10.15,Youkoso,director sakayanagi,0,0,0,,{\be2}Vinis
 Dialogue: 0,0:09:10.76,0:09:14.74,Youkoso,director sakayanagi,0,0,0,,{\be2}¿Has pensado en qué harás\Ndespués de graduarte?
 Dialogue: 0,0:09:14.74,0:09:17.16,Youkoso,ayanokoji,0,0,0,,{\be2\i1}Mi destino ya está escrito.
 Dialogue: 0,0:09:17.93,0:09:21.00,Youkoso,ayanokoji,0,0,0,,{\be2\i1}Volveré al lugar del que venía
-Dialogue: 0,0:09:21.00,0:09:26.17,Youkoso,ayanokoji,0,0,0,,{\be2\i1}y probablemente esté como mentor allí.
+Dialogue: 0,0:09:21.00,0:09:26.17,Youkoso,ayanokoji,0,0,0,,{\be2\i1}y tomaré el papel del próximo líder.
 Dialogue: 0,0:09:26.17,0:09:31.93,Youkoso,director sakayanagi,0,0,0,,{\be2}Conque tú también\Nhas aceptado tu destino.
 Dialogue: 0,0:09:31.93,0:09:37.18,Youkoso,ayanokoji,0,0,0,,{\be2}Por eso pretendo defender\Nestos tres años como sea.
 Dialogue: 0,0:09:38.82,0:09:41.57,Youkoso,director sakayanagi,0,0,0,,{\be2}Espero que esta escuela
@@ -214,7 +213,7 @@ Dialogue: 0,0:13:08.07,0:13:09.94,Youkoso,chabashira,0,0,0,,{\be2}Eso espero.
 Dialogue: 0,0:13:25.09,0:13:26.97,Youkoso,ayanokoji,0,0,0,,{\be2}Sabía que vendrías.
 Dialogue: 0,0:13:27.70,0:13:29.71,Youkoso,horikita,0,0,0,,{\be2}¿Qué no podía? {L: Dudé mucho si es o no con acento. Según investigué sí lleva, pero a mí no me convence xd}
 Dialogue: 0,0:13:29.71,0:13:35.40,Youkoso,ayanokoji,0,0,0,,{\be2}Solo pensaba\Nque la antigua tú no habría venido.
-Dialogue: 0,0:13:35.40,0:13:37.17,Youkoso,horikita,0,0,0,,{\be2}¿Tú crees?
+Dialogue: 0,0:13:35.40,0:13:37.17,Youkoso,horikita,0,0,0,,{\be2}¿En serio?
 Dialogue: 0,0:13:37.17,0:13:38.76,Youkoso,horikita,0,0,0,,{\be2}Si sigo siendo yo.
 Dialogue: 0,0:13:38.76,0:13:40.84,Youkoso,horikita,0,0,0,,{\be2}No he cambiado nada.
 Dialogue: 0,0:13:43.34,0:13:46.56,Youkoso,ayanokoji,0,0,0,,{\be2}Aunque no se gradúan de la clase A,
@@ -292,7 +291,7 @@ Dialogue: 0,0:20:00.05,0:20:03.47,Youkoso,manabu,0,0,0,,{\be2}volviste a ser qui
 Dialogue: 0,0:20:03.47,0:20:05.02,Youkoso,horikita,0,0,0,,{\be2}Me demoré un…
 Dialogue: 0,0:20:05.02,0:20:06.56,Youkoso,horikita,0,0,0,,{\be2}No.
 Dialogue: 0,0:20:06.56,0:20:08.73,Youkoso,horikita,0,0,0,,{\be2}Muchos años.
-Dialogue: 0,0:20:13.86,0:20:17.58,Youkoso,horikita,0,0,0,,{\be2}Espero poder una buena lider
+Dialogue: 0,0:20:13.86,0:20:17.58,Youkoso,horikita,0,0,0,,{\be2}Espero poder una buena líder
 Dialogue: 0,0:20:17.58,0:20:20.65,Youkoso,horikita,0,0,0,,{\be2}por el bien de mis compañeros.
 Dialogue: 0,0:20:22.12,0:20:25.70,Youkoso,horikita,0,0,0,,{\be2}Y seguiré aprendiendo junto a ellos
 Dialogue: 0,0:20:25.70,0:20:28.75,Youkoso,horikita,0,0,0,,{\be2}para encontrar mi propio camino.
